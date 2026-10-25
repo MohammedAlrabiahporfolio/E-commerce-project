@@ -1,0 +1,3001 @@
+OrderID,CustomerID,OrderDate,PaymentMethod,ShippingCost,Status
+1,86,2021-11-11,PayPal,11.49,Completed
+2,234,2022-07-17,PayPal,15.75,Completed
+3,90,2022-10-23,PayPal,2.09,Completed
+4,314,2023-02-19,PayPal,18.52,Completed
+5,54,2022-07-16,PayPal,5.55,Completed
+6,12,2023-06-19,Credit Card,19.71,Completed
+7,209,2023-01-28,Cash,15.25,Completed
+8,462,2021-04-23,Credit Card,15.94,Completed
+9,14,2021-06-19,PayPal,13.81,Completed
+10,121,2022-04-13,Cash,10.49,Returned
+11,418,2022-11-09,Credit Card,12.29,Returned
+12,437,2021-01-14,Credit Card,2.84,Completed
+13,377,2022-12-16,PayPal,13.23,Completed
+14,20,2021-10-15,Credit Card,13.27,Returned
+15,75,2021-07-08,Credit Card,18.04,Returned
+16,400,2021-06-04,Credit Card,11.1,Returned
+17,243,2022-07-21,Credit Card,3.39,Completed
+18,223,2022-11-25,Credit Card,7.51,Completed
+19,70,2022-12-23,PayPal,13.8,Completed
+20,312,2023-06-07,PayPal,6.31,Completed
+21,211,2022-04-16,Credit Card,7.05,Completed
+22,101,2021-03-16,PayPal,16.77,Completed
+23,186,2021-10-04,PayPal,12.52,Completed
+24,132,2022-10-07,Cash,11.15,Completed
+25,111,2021-12-09,Credit Card,7.73,Completed
+26,381,2022-03-01,PayPal,15.16,Completed
+27,132,2022-07-25,PayPal,7.18,Completed
+28,20,2022-05-26,Credit Card,15.27,Completed
+29,394,2023-05-07,Cash,3.26,Completed
+30,24,2021-07-01,Credit Card,17.56,Completed
+31,227,2022-04-03,Cash,10.99,Completed
+32,154,2023-05-01,Credit Card,9.89,Completed
+33,293,2023-04-13,Credit Card,13.0,Completed
+34,230,2021-03-05,Credit Card,13.24,Completed
+35,469,2023-04-19,Credit Card,4.38,Completed
+36,310,2021-09-17,Cash,15.61,Completed
+37,488,2021-07-12,Cash,6.97,Returned
+38,359,2022-10-17,PayPal,18.29,Completed
+39,405,2022-09-08,Credit Card,16.72,Completed
+40,202,2022-02-10,Cash,8.23,Completed
+41,38,2022-12-27,Cash,16.54,Completed
+42,430,2023-01-24,Cash,8.42,Completed
+43,260,2022-12-22,Credit Card,3.82,Returned
+44,188,2021-04-03,PayPal,19.31,Completed
+45,57,2022-03-06,Cash,13.75,Completed
+46,429,2022-10-16,Credit Card,10.21,Completed
+47,20,2022-03-10,Cash,9.16,Completed
+48,273,2022-02-08,Cash,7.84,Completed
+49,119,2022-03-10,PayPal,19.67,Completed
+50,71,2021-04-22,Cash,4.43,Completed
+51,4,2022-01-10,Cash,7.67,Completed
+52,221,2021-02-28,Credit Card,10.74,Returned
+53,14,2021-02-12,Credit Card,10.6,Completed
+54,3,2021-07-26,PayPal,10.48,Completed
+55,216,2023-02-19,Credit Card,5.16,Completed
+56,229,2021-10-23,Credit Card,4.61,Completed
+57,336,2021-04-28,PayPal,6.59,Completed
+58,186,2022-06-16,Cash,18.46,Completed
+59,55,2021-08-10,PayPal,4.03,Completed
+60,500,2021-06-15,Credit Card,15.63,Completed
+61,388,2022-10-05,PayPal,15.64,Completed
+62,376,2021-06-05,Cash,16.58,Completed
+63,254,2021-07-03,PayPal,17.96,Completed
+64,24,2021-03-31,Credit Card,6.73,Completed
+65,162,2021-04-04,Credit Card,6.04,Cancelled
+66,158,2021-01-13,PayPal,10.38,Completed
+67,82,2023-04-14,Cash,6.77,Completed
+68,403,2023-03-16,PayPal,15.22,Completed
+69,159,2023-01-12,Cash,13.45,Completed
+70,188,2023-04-14,Cash,17.75,Completed
+71,60,2023-03-15,PayPal,3.49,Returned
+72,403,2022-03-14,Cash,18.47,Completed
+73,305,2022-06-22,Credit Card,7.28,Cancelled
+74,319,2022-08-10,PayPal,10.83,Completed
+75,366,2023-05-26,Cash,9.9,Completed
+76,211,2023-03-22,Credit Card,15.69,Completed
+77,406,2021-05-30,PayPal,9.57,Completed
+78,152,2022-10-22,Credit Card,18.98,Completed
+79,109,2021-01-08,Credit Card,18.25,Returned
+80,76,2021-01-29,Credit Card,17.7,Completed
+81,30,2021-10-23,Cash,3.28,Returned
+82,314,2022-12-22,PayPal,17.38,Returned
+83,486,2022-10-02,PayPal,16.07,Cancelled
+84,117,2021-12-06,Cash,3.86,Completed
+85,415,2022-09-20,PayPal,3.93,Completed
+86,356,2022-03-15,Credit Card,3.82,Completed
+87,192,2021-05-24,PayPal,2.2,Completed
+88,19,2023-04-10,Cash,11.88,Completed
+89,432,2023-01-17,Credit Card,19.52,Completed
+90,173,2022-06-03,Cash,9.9,Completed
+91,228,2021-02-14,Credit Card,11.73,Returned
+92,350,2021-08-27,Credit Card,19.42,Returned
+93,183,2021-06-04,PayPal,6.59,Completed
+94,113,2021-06-30,Credit Card,17.45,Completed
+95,183,2021-08-03,Cash,11.84,Completed
+96,481,2021-03-29,PayPal,12.25,Completed
+97,146,2021-09-13,Cash,8.18,Completed
+98,319,2022-05-26,Credit Card,12.11,Completed
+99,116,2021-03-14,Cash,3.32,Completed
+100,113,2021-06-28,Cash,15.76,Completed
+101,251,2021-07-31,Credit Card,7.12,Completed
+102,476,2023-03-16,PayPal,17.98,Completed
+103,251,2021-08-22,Cash,8.62,Cancelled
+104,303,2022-04-10,Credit Card,4.57,Completed
+105,459,2023-01-21,PayPal,14.53,Completed
+106,313,2021-08-11,PayPal,4.96,Completed
+107,118,2022-09-23,PayPal,15.57,Completed
+108,301,2023-04-05,Cash,19.43,Completed
+109,161,2021-09-21,Cash,16.03,Completed
+110,401,2021-07-26,Cash,2.4,Completed
+111,198,2022-08-30,PayPal,12.8,Completed
+112,260,2023-06-04,Cash,14.52,Completed
+113,148,2023-01-04,Credit Card,16.86,Completed
+114,240,2022-01-01,Cash,3.01,Completed
+115,47,2021-10-03,Cash,10.64,Completed
+116,475,2022-01-15,PayPal,11.64,Completed
+117,399,2023-01-13,Cash,5.04,Completed
+118,198,2021-11-05,Credit Card,7.8,Returned
+119,47,2022-09-23,PayPal,9.92,Completed
+120,78,2021-09-25,Credit Card,17.0,Returned
+121,124,2023-02-24,PayPal,18.73,Completed
+122,75,2021-03-05,PayPal,13.31,Returned
+123,359,2023-03-21,Cash,9.11,Completed
+124,137,2021-12-16,Credit Card,6.57,Completed
+125,90,2022-05-09,PayPal,19.68,Returned
+126,400,2022-06-07,Cash,19.69,Completed
+127,325,2021-04-08,PayPal,18.65,Completed
+128,500,2021-03-12,PayPal,16.14,Completed
+129,61,2021-12-30,PayPal,7.86,Completed
+130,138,2022-07-24,PayPal,16.71,Completed
+131,50,2023-03-13,PayPal,9.36,Completed
+132,259,2023-02-02,PayPal,7.88,Returned
+133,461,2021-10-03,Cash,15.41,Completed
+134,107,2021-02-19,PayPal,3.43,Cancelled
+135,113,2021-12-24,Credit Card,2.87,Returned
+136,350,2022-12-29,Cash,10.06,Completed
+137,254,2022-07-18,Credit Card,10.02,Completed
+138,118,2023-02-22,PayPal,18.12,Completed
+139,493,2022-04-30,Credit Card,4.27,Completed
+140,198,2021-03-25,PayPal,4.22,Completed
+141,337,2023-06-18,PayPal,4.65,Completed
+142,365,2023-03-16,Cash,2.54,Completed
+143,51,2022-09-30,Cash,3.29,Completed
+144,245,2023-03-19,PayPal,13.88,Completed
+145,403,2022-08-07,Cash,9.77,Completed
+146,426,2021-10-23,Credit Card,15.74,Completed
+147,35,2021-08-24,Cash,19.87,Completed
+148,302,2021-02-25,Cash,13.86,Completed
+149,410,2021-12-26,Credit Card,2.91,Cancelled
+150,499,2021-04-20,Cash,3.88,Completed
+151,69,2021-07-11,PayPal,17.86,Completed
+152,349,2021-04-03,Credit Card,11.49,Completed
+153,320,2023-05-12,PayPal,16.85,Cancelled
+154,421,2022-07-22,Credit Card,17.42,Completed
+155,468,2021-03-01,PayPal,18.7,Completed
+156,49,2022-10-12,PayPal,19.1,Cancelled
+157,405,2021-02-08,Cash,11.99,Completed
+158,74,2022-06-24,PayPal,8.14,Completed
+159,192,2021-02-18,Cash,19.31,Completed
+160,261,2022-02-24,Credit Card,11.85,Returned
+161,356,2022-09-29,PayPal,3.16,Completed
+162,70,2021-01-13,PayPal,13.57,Completed
+163,90,2021-02-05,Credit Card,12.58,Completed
+164,260,2021-04-11,Credit Card,18.12,Completed
+165,126,2023-03-05,PayPal,13.76,Completed
+166,231,2021-03-27,Credit Card,8.28,Completed
+167,295,2022-05-31,Cash,19.39,Completed
+168,498,2021-08-11,Credit Card,16.43,Completed
+169,419,2021-12-04,Credit Card,13.35,Completed
+170,129,2021-06-15,PayPal,7.27,Completed
+171,280,2022-01-18,Cash,8.72,Completed
+172,313,2023-05-06,Credit Card,14.06,Completed
+173,100,2023-06-14,Cash,3.3,Completed
+174,326,2022-01-11,Cash,6.62,Completed
+175,297,2022-04-16,Cash,14.85,Completed
+176,182,2023-03-01,PayPal,10.64,Completed
+177,174,2022-10-04,Credit Card,9.24,Completed
+178,316,2021-01-31,PayPal,4.73,Completed
+179,364,2022-01-10,Credit Card,9.95,Completed
+180,188,2021-01-11,Credit Card,15.87,Returned
+181,57,2021-10-29,PayPal,6.75,Completed
+182,31,2021-04-06,Cash,2.1,Completed
+183,84,2021-07-09,Cash,14.03,Returned
+184,152,2022-03-29,Credit Card,19.51,Completed
+185,473,2021-07-11,PayPal,12.92,Completed
+186,36,2022-05-01,Cash,4.16,Completed
+187,213,2021-09-23,Cash,7.77,Completed
+188,414,2022-02-28,Credit Card,17.62,Completed
+189,408,2021-05-08,Credit Card,6.19,Completed
+190,364,2021-08-26,PayPal,12.94,Completed
+191,106,2021-12-21,Credit Card,9.25,Completed
+192,414,2021-04-22,Cash,5.74,Completed
+193,342,2023-04-08,Cash,16.64,Cancelled
+194,220,2022-03-22,Cash,15.37,Completed
+195,391,2021-12-09,Cash,13.91,Completed
+196,163,2021-05-25,PayPal,6.25,Completed
+197,439,2021-03-06,PayPal,3.76,Completed
+198,220,2021-09-04,Credit Card,12.37,Completed
+199,270,2023-01-05,Credit Card,11.97,Completed
+200,120,2022-05-05,Credit Card,5.39,Completed
+201,394,2023-04-05,PayPal,3.01,Completed
+202,336,2022-03-15,Cash,3.45,Completed
+203,400,2021-04-16,Credit Card,19.87,Completed
+204,182,2021-06-30,Cash,16.1,Returned
+205,479,2021-07-03,Credit Card,18.6,Cancelled
+206,106,2021-08-14,Credit Card,5.51,Completed
+207,217,2023-02-16,Credit Card,19.29,Completed
+208,205,2023-03-01,Credit Card,4.57,Completed
+209,70,2021-03-30,Credit Card,11.16,Completed
+210,44,2022-11-19,Cash,16.93,Cancelled
+211,329,2022-06-14,Credit Card,8.3,Completed
+212,301,2022-01-06,Cash,9.65,Completed
+213,228,2022-02-03,PayPal,4.31,Cancelled
+214,184,2021-04-16,Credit Card,4.21,Returned
+215,107,2021-09-28,Cash,13.15,Completed
+216,84,2023-04-11,PayPal,14.16,Completed
+217,338,2022-05-18,PayPal,15.99,Completed
+218,250,2022-11-10,PayPal,12.02,Completed
+219,363,2022-06-09,Cash,13.62,Completed
+220,441,2023-04-29,Credit Card,2.24,Completed
+221,21,2021-02-01,Credit Card,4.92,Completed
+222,196,2022-01-28,Cash,19.73,Completed
+223,178,2021-02-09,Credit Card,3.37,Completed
+224,417,2022-10-22,Cash,14.22,Completed
+225,475,2021-08-06,Credit Card,5.17,Completed
+226,7,2023-01-01,PayPal,14.9,Completed
+227,70,2021-03-23,Credit Card,14.71,Completed
+228,127,2023-04-25,Cash,6.22,Completed
+229,399,2022-12-21,Cash,6.85,Completed
+230,466,2021-07-20,PayPal,13.79,Completed
+231,160,2022-03-23,Cash,9.02,Completed
+232,248,2023-04-24,Credit Card,5.5,Completed
+233,203,2022-03-04,Credit Card,15.17,Completed
+234,148,2021-02-07,PayPal,4.77,Completed
+235,472,2021-07-30,Cash,17.4,Completed
+236,143,2022-03-20,PayPal,11.26,Completed
+237,432,2021-11-23,Credit Card,3.9,Completed
+238,199,2023-01-31,PayPal,14.49,Completed
+239,405,2021-08-15,Cash,11.34,Cancelled
+240,426,2021-02-17,PayPal,7.37,Completed
+241,154,2021-01-18,Cash,9.61,Completed
+242,492,2022-03-15,Cash,7.37,Completed
+243,376,2023-03-18,Credit Card,6.73,Completed
+244,384,2022-12-09,Credit Card,4.94,Completed
+245,142,2021-07-06,Credit Card,8.53,Completed
+246,313,2021-12-11,Cash,6.52,Completed
+247,165,2021-08-12,PayPal,14.3,Completed
+248,314,2023-04-10,Cash,14.31,Completed
+249,21,2022-05-03,Credit Card,11.03,Returned
+250,82,2023-05-27,Credit Card,16.0,Completed
+251,69,2023-04-29,PayPal,17.14,Completed
+252,131,2021-08-17,Credit Card,12.44,Completed
+253,87,2022-01-25,Credit Card,13.14,Completed
+254,218,2022-08-12,Credit Card,7.09,Completed
+255,421,2021-07-07,PayPal,18.11,Completed
+256,472,2023-05-08,Cash,2.44,Completed
+257,305,2021-09-27,Credit Card,8.27,Completed
+258,403,2022-08-30,PayPal,14.99,Completed
+259,371,2021-11-06,Credit Card,3.44,Completed
+260,345,2021-05-12,PayPal,5.3,Completed
+261,341,2022-07-05,Credit Card,12.61,Completed
+262,384,2021-03-13,PayPal,12.08,Returned
+263,396,2023-03-04,Credit Card,15.3,Completed
+264,445,2023-04-25,Cash,16.63,Completed
+265,425,2022-11-03,Credit Card,4.31,Completed
+266,161,2021-07-06,PayPal,2.33,Completed
+267,178,2022-05-01,Credit Card,14.41,Completed
+268,117,2021-07-10,Cash,7.43,Completed
+269,196,2022-02-26,Credit Card,13.27,Cancelled
+270,383,2021-04-30,PayPal,4.71,Completed
+271,490,2021-08-08,PayPal,10.44,Completed
+272,327,2021-02-22,Cash,11.08,Completed
+273,86,2023-01-04,PayPal,12.53,Completed
+274,289,2022-03-27,Credit Card,11.24,Completed
+275,81,2022-02-16,Credit Card,10.92,Completed
+276,152,2022-10-05,Credit Card,7.99,Completed
+277,61,2021-08-25,PayPal,3.28,Completed
+278,61,2023-01-28,Credit Card,3.61,Returned
+279,354,2023-01-08,Credit Card,9.81,Completed
+280,28,2022-12-21,Credit Card,8.4,Cancelled
+281,442,2022-02-10,Cash,11.29,Completed
+282,43,2022-08-31,PayPal,7.49,Completed
+283,169,2022-02-26,PayPal,14.38,Completed
+284,423,2022-12-13,PayPal,17.55,Completed
+285,86,2021-09-04,Cash,7.38,Completed
+286,177,2021-03-13,PayPal,5.47,Completed
+287,17,2023-04-10,Cash,4.09,Completed
+288,98,2021-07-04,Cash,13.09,Completed
+289,454,2021-01-06,PayPal,9.99,Completed
+290,494,2021-07-25,Credit Card,5.38,Completed
+291,198,2022-06-28,Credit Card,13.76,Completed
+292,98,2022-09-03,PayPal,4.67,Completed
+293,65,2022-01-22,PayPal,11.98,Completed
+294,330,2023-02-07,Cash,11.49,Completed
+295,341,2022-11-30,PayPal,15.22,Completed
+296,5,2021-03-17,Cash,2.99,Completed
+297,2,2021-06-26,PayPal,17.98,Completed
+298,22,2023-04-07,Credit Card,14.65,Completed
+299,112,2023-03-10,Credit Card,5.89,Returned
+300,57,2021-12-15,PayPal,5.3,Cancelled
+301,66,2021-09-12,Cash,9.77,Completed
+302,330,2023-04-17,Credit Card,16.72,Cancelled
+303,98,2022-12-03,Cash,17.17,Completed
+304,144,2021-11-04,PayPal,11.37,Completed
+305,368,2021-12-11,PayPal,17.49,Completed
+306,435,2021-05-07,Credit Card,2.1,Completed
+307,125,2021-10-14,PayPal,2.63,Completed
+308,167,2023-02-05,Credit Card,18.41,Completed
+309,86,2022-12-26,Cash,15.96,Returned
+310,76,2023-02-01,Credit Card,10.11,Completed
+311,344,2022-08-19,Credit Card,15.56,Completed
+312,495,2022-05-02,Cash,19.2,Completed
+313,424,2022-01-18,Credit Card,15.9,Completed
+314,294,2022-02-10,Credit Card,17.16,Completed
+315,444,2022-01-23,PayPal,15.69,Completed
+316,59,2022-06-09,Cash,5.03,Returned
+317,138,2022-07-11,Credit Card,17.0,Completed
+318,99,2022-10-01,Cash,5.51,Completed
+319,192,2022-09-18,Cash,18.07,Completed
+320,243,2021-10-03,Credit Card,10.26,Completed
+321,319,2022-05-15,PayPal,14.19,Returned
+322,49,2022-12-18,Cash,10.95,Completed
+323,448,2021-12-03,Credit Card,3.69,Completed
+324,32,2022-04-26,Cash,7.23,Completed
+325,391,2023-06-16,PayPal,19.71,Completed
+326,277,2021-09-30,PayPal,19.29,Completed
+327,20,2021-02-27,PayPal,7.77,Completed
+328,154,2021-11-24,Credit Card,19.93,Completed
+329,383,2023-01-01,Credit Card,17.22,Completed
+330,68,2021-04-19,PayPal,13.0,Completed
+331,366,2021-10-06,Credit Card,2.72,Completed
+332,372,2022-11-17,PayPal,18.23,Completed
+333,214,2021-11-24,Credit Card,12.03,Completed
+334,143,2023-02-15,PayPal,17.63,Returned
+335,376,2021-11-11,Cash,17.02,Completed
+336,232,2022-04-19,PayPal,16.99,Completed
+337,213,2021-04-21,PayPal,14.57,Completed
+338,79,2022-11-30,Credit Card,7.25,Completed
+339,214,2023-02-20,Credit Card,8.05,Completed
+340,116,2021-08-17,Credit Card,7.55,Completed
+341,92,2022-05-12,Credit Card,2.36,Completed
+342,270,2021-06-05,Credit Card,12.49,Completed
+343,411,2022-04-18,Credit Card,14.58,Completed
+344,381,2022-12-02,Cash,17.37,Returned
+345,489,2021-09-29,PayPal,4.52,Completed
+346,168,2023-06-06,PayPal,11.8,Completed
+347,58,2021-01-02,PayPal,2.14,Cancelled
+348,284,2023-01-28,Cash,3.71,Completed
+349,26,2022-12-23,PayPal,2.98,Completed
+350,369,2022-05-26,Cash,15.06,Completed
+351,447,2021-10-13,Cash,3.46,Completed
+352,66,2023-05-21,Cash,14.9,Completed
+353,409,2021-01-13,PayPal,6.49,Completed
+354,248,2022-08-31,Cash,17.8,Completed
+355,254,2022-05-13,PayPal,16.64,Completed
+356,387,2023-01-03,PayPal,19.24,Completed
+357,456,2021-08-26,Credit Card,17.91,Completed
+358,44,2021-04-04,Credit Card,18.8,Completed
+359,97,2021-12-04,Cash,17.46,Completed
+360,42,2023-02-20,Cash,14.48,Completed
+361,500,2021-06-20,PayPal,5.06,Completed
+362,227,2022-08-29,Cash,6.89,Completed
+363,262,2022-10-23,Cash,5.83,Completed
+364,167,2022-09-16,PayPal,12.86,Completed
+365,436,2022-07-21,Cash,11.07,Completed
+366,279,2023-04-29,Cash,17.61,Completed
+367,89,2022-04-12,PayPal,19.15,Completed
+368,379,2022-09-20,PayPal,9.29,Completed
+369,178,2021-05-23,Credit Card,11.11,Completed
+370,427,2021-07-20,PayPal,19.49,Completed
+371,403,2021-06-29,Credit Card,6.97,Completed
+372,197,2022-12-15,Cash,16.26,Completed
+373,307,2021-12-30,PayPal,6.05,Completed
+374,267,2022-04-24,PayPal,14.27,Completed
+375,268,2022-07-19,PayPal,6.57,Returned
+376,74,2022-04-16,Cash,17.91,Completed
+377,8,2022-01-19,Credit Card,12.11,Completed
+378,408,2022-11-23,Cash,5.35,Completed
+379,476,2022-02-21,Cash,6.04,Completed
+380,297,2023-04-05,PayPal,10.89,Completed
+381,164,2021-11-04,Credit Card,19.31,Completed
+382,485,2022-10-11,Cash,15.85,Completed
+383,85,2022-11-25,PayPal,10.79,Completed
+384,72,2022-01-02,Cash,8.08,Completed
+385,55,2021-01-01,Cash,11.89,Completed
+386,393,2021-02-13,PayPal,15.47,Returned
+387,47,2023-01-09,PayPal,16.11,Completed
+388,399,2023-04-23,Credit Card,7.84,Returned
+389,432,2021-04-08,Cash,14.98,Completed
+390,238,2022-12-21,PayPal,13.84,Cancelled
+391,104,2021-09-22,PayPal,19.26,Completed
+392,210,2023-03-11,Credit Card,18.76,Completed
+393,42,2023-02-22,Credit Card,16.21,Completed
+394,316,2021-05-20,PayPal,15.02,Returned
+395,468,2022-04-26,Credit Card,6.93,Completed
+396,454,2021-08-25,PayPal,17.23,Completed
+397,268,2021-03-13,Cash,9.7,Returned
+398,386,2022-10-29,Credit Card,6.9,Completed
+399,263,2021-07-09,Cash,8.91,Completed
+400,336,2021-09-25,Cash,17.05,Returned
+401,387,2021-11-17,Cash,4.68,Completed
+402,365,2021-04-17,PayPal,10.21,Completed
+403,259,2021-08-20,Cash,10.86,Completed
+404,283,2021-02-11,Cash,2.66,Completed
+405,114,2022-12-03,Cash,5.52,Completed
+406,363,2023-06-02,PayPal,16.88,Cancelled
+407,40,2021-05-19,Cash,16.95,Completed
+408,486,2022-09-07,Cash,7.26,Completed
+409,417,2022-11-14,Credit Card,17.75,Completed
+410,220,2023-05-13,PayPal,15.89,Completed
+411,129,2021-09-30,Cash,9.52,Completed
+412,8,2022-04-26,Credit Card,15.47,Completed
+413,101,2022-02-20,PayPal,19.3,Completed
+414,416,2022-05-21,PayPal,10.26,Completed
+415,380,2023-01-03,PayPal,6.29,Completed
+416,176,2022-12-26,PayPal,18.95,Completed
+417,107,2023-05-03,PayPal,12.87,Completed
+418,101,2022-02-28,PayPal,3.89,Completed
+419,260,2022-02-11,Cash,12.31,Completed
+420,478,2022-07-22,Cash,11.01,Completed
+421,454,2022-01-25,Cash,17.4,Completed
+422,366,2021-12-08,Cash,11.55,Completed
+423,246,2022-09-06,Credit Card,6.59,Completed
+424,275,2022-05-08,Cash,14.16,Completed
+425,32,2021-07-11,PayPal,11.77,Completed
+426,137,2022-05-14,Cash,6.19,Completed
+427,12,2023-04-02,Cash,12.33,Completed
+428,395,2022-12-13,PayPal,16.79,Completed
+429,302,2021-08-21,Cash,2.51,Completed
+430,375,2021-08-15,Cash,13.36,Completed
+431,16,2022-01-06,Cash,8.29,Returned
+432,129,2021-05-19,Credit Card,7.27,Completed
+433,63,2023-05-06,Cash,9.07,Cancelled
+434,109,2023-03-28,PayPal,8.16,Completed
+435,375,2021-05-29,PayPal,16.98,Completed
+436,21,2021-04-25,Cash,6.95,Completed
+437,158,2022-03-26,Cash,15.2,Completed
+438,269,2021-03-04,Cash,3.69,Completed
+439,162,2021-04-14,PayPal,19.13,Completed
+440,260,2023-05-01,PayPal,13.2,Completed
+441,412,2023-05-21,Credit Card,14.72,Completed
+442,102,2022-10-30,Credit Card,7.36,Completed
+443,223,2021-09-30,Credit Card,9.42,Completed
+444,59,2021-01-06,PayPal,6.03,Completed
+445,247,2021-05-27,Credit Card,18.79,Completed
+446,128,2021-07-03,Cash,10.79,Returned
+447,283,2021-01-28,Cash,13.35,Completed
+448,325,2022-07-04,PayPal,15.22,Completed
+449,25,2021-04-29,Credit Card,8.68,Completed
+450,131,2021-10-20,Cash,14.96,Returned
+451,353,2022-01-06,PayPal,14.17,Completed
+452,196,2021-09-01,Credit Card,14.7,Completed
+453,281,2022-08-03,Cash,10.81,Completed
+454,404,2022-12-27,Credit Card,8.89,Completed
+455,418,2021-08-06,PayPal,6.0,Completed
+456,154,2021-06-26,Credit Card,16.84,Completed
+457,382,2021-10-26,PayPal,12.95,Returned
+458,133,2022-11-07,Credit Card,10.0,Completed
+459,227,2021-02-27,Cash,18.99,Completed
+460,189,2021-09-26,PayPal,2.86,Completed
+461,476,2021-11-04,PayPal,17.3,Completed
+462,477,2022-07-24,PayPal,19.96,Completed
+463,265,2021-10-15,Credit Card,17.96,Completed
+464,372,2021-04-15,Credit Card,16.59,Completed
+465,486,2021-08-16,Cash,8.74,Completed
+466,434,2021-09-04,PayPal,6.16,Completed
+467,134,2022-12-01,PayPal,15.23,Completed
+468,211,2022-05-09,Credit Card,7.48,Completed
+469,60,2021-03-24,Credit Card,5.17,Completed
+470,428,2021-07-05,Cash,16.16,Returned
+471,377,2021-09-09,Cash,7.63,Completed
+472,395,2021-12-21,Credit Card,18.46,Completed
+473,450,2023-01-20,PayPal,17.13,Returned
+474,431,2023-05-22,Cash,17.26,Completed
+475,364,2022-11-27,Credit Card,15.89,Cancelled
+476,364,2023-03-07,Credit Card,17.86,Completed
+477,457,2023-06-16,PayPal,16.5,Completed
+478,213,2021-07-29,Credit Card,12.85,Completed
+479,216,2023-03-27,Credit Card,7.32,Returned
+480,226,2023-03-19,Cash,17.99,Completed
+481,470,2022-09-01,Credit Card,17.13,Returned
+482,131,2022-03-23,Credit Card,10.51,Completed
+483,76,2022-04-05,Cash,2.7,Completed
+484,476,2022-04-17,PayPal,13.49,Completed
+485,286,2022-12-21,PayPal,2.91,Completed
+486,474,2022-01-05,Cash,18.67,Returned
+487,496,2023-06-19,Cash,19.31,Returned
+488,277,2022-05-07,PayPal,5.41,Completed
+489,156,2021-05-17,PayPal,14.18,Completed
+490,248,2022-01-02,PayPal,3.66,Completed
+491,218,2021-07-03,PayPal,15.13,Completed
+492,190,2022-08-11,PayPal,8.25,Completed
+493,417,2021-10-14,Cash,14.26,Completed
+494,469,2022-04-17,Credit Card,8.71,Completed
+495,163,2022-01-10,PayPal,4.62,Completed
+496,180,2022-10-16,PayPal,9.31,Completed
+497,34,2023-01-19,Credit Card,4.03,Completed
+498,41,2022-06-21,Credit Card,12.38,Completed
+499,307,2022-05-26,Credit Card,2.74,Completed
+500,431,2023-03-13,Credit Card,11.49,Completed
+501,338,2022-08-02,Credit Card,17.95,Completed
+502,314,2021-09-07,Credit Card,17.08,Completed
+503,75,2022-05-25,Cash,17.89,Completed
+504,441,2022-09-22,Credit Card,18.6,Completed
+505,279,2021-03-14,Credit Card,3.88,Returned
+506,176,2021-10-09,Cash,4.32,Completed
+507,384,2021-12-26,Credit Card,12.03,Completed
+508,150,2021-01-10,PayPal,18.09,Completed
+509,273,2021-07-30,PayPal,19.54,Completed
+510,325,2023-04-15,Credit Card,2.83,Completed
+511,108,2021-06-01,Cash,8.4,Completed
+512,139,2021-01-05,PayPal,5.83,Completed
+513,350,2021-07-14,Cash,15.61,Completed
+514,271,2021-10-10,PayPal,13.52,Completed
+515,347,2022-04-09,Credit Card,4.16,Completed
+516,419,2021-04-23,Cash,10.7,Completed
+517,289,2021-09-28,Cash,14.34,Cancelled
+518,212,2021-06-12,Cash,16.02,Completed
+519,381,2022-04-05,PayPal,2.36,Completed
+520,272,2021-04-15,PayPal,18.03,Completed
+521,418,2022-11-24,PayPal,12.25,Returned
+522,66,2022-07-10,Credit Card,16.61,Completed
+523,483,2021-10-09,PayPal,16.54,Completed
+524,424,2022-11-18,Credit Card,5.42,Completed
+525,248,2021-06-11,Cash,3.98,Completed
+526,156,2021-12-17,Cash,14.98,Completed
+527,47,2022-03-10,Credit Card,4.82,Completed
+528,423,2023-05-02,PayPal,17.3,Completed
+529,454,2021-05-20,Credit Card,15.07,Completed
+530,201,2022-04-16,Cash,17.15,Completed
+531,148,2021-05-12,Cash,7.38,Completed
+532,124,2021-03-28,Credit Card,7.7,Completed
+533,1,2022-11-19,PayPal,14.08,Completed
+534,456,2021-07-02,PayPal,2.57,Completed
+535,247,2022-01-03,Credit Card,15.08,Completed
+536,343,2021-05-09,Credit Card,17.04,Completed
+537,128,2021-09-03,PayPal,9.47,Completed
+538,191,2022-08-24,Cash,15.77,Completed
+539,67,2022-08-01,Credit Card,5.14,Completed
+540,4,2022-11-01,PayPal,7.8,Completed
+541,442,2023-06-18,PayPal,19.54,Completed
+542,409,2022-01-13,Cash,19.75,Completed
+543,303,2021-05-29,Cash,11.23,Completed
+544,294,2023-05-02,Cash,18.82,Completed
+545,143,2022-03-09,Cash,11.41,Completed
+546,191,2022-09-20,Cash,7.25,Completed
+547,21,2022-12-27,Credit Card,6.8,Cancelled
+548,227,2022-04-14,PayPal,18.73,Completed
+549,313,2022-03-22,Credit Card,5.1,Completed
+550,117,2022-04-26,Credit Card,12.43,Completed
+551,437,2023-06-03,Credit Card,12.0,Completed
+552,302,2021-10-21,Credit Card,15.31,Returned
+553,500,2023-02-04,Credit Card,10.99,Completed
+554,142,2021-05-23,Cash,6.9,Completed
+555,484,2021-09-07,Cash,5.05,Completed
+556,460,2023-05-28,PayPal,13.17,Completed
+557,401,2021-10-29,Credit Card,14.94,Completed
+558,39,2021-01-25,PayPal,12.25,Cancelled
+559,393,2023-02-28,Cash,15.29,Completed
+560,355,2023-06-08,Cash,4.55,Completed
+561,252,2023-06-09,Cash,17.88,Completed
+562,333,2021-03-11,Credit Card,12.48,Completed
+563,207,2022-09-17,Credit Card,4.28,Returned
+564,210,2023-05-25,Cash,10.31,Completed
+565,115,2021-04-22,PayPal,17.21,Completed
+566,225,2021-12-30,PayPal,18.16,Completed
+567,134,2021-10-30,Cash,6.76,Completed
+568,251,2022-04-16,PayPal,14.8,Completed
+569,219,2021-04-01,Cash,3.8,Completed
+570,407,2022-06-14,PayPal,2.6,Completed
+571,443,2022-10-23,Cash,12.09,Completed
+572,91,2023-01-09,PayPal,14.51,Completed
+573,354,2022-12-27,Credit Card,16.32,Completed
+574,376,2023-05-22,Cash,8.12,Completed
+575,46,2022-10-25,Cash,2.12,Completed
+576,38,2021-07-11,PayPal,10.63,Completed
+577,142,2022-07-06,Cash,2.29,Completed
+578,100,2021-08-30,Cash,3.66,Completed
+579,328,2021-05-18,Cash,7.88,Completed
+580,190,2021-12-11,Credit Card,9.87,Completed
+581,35,2021-06-29,Credit Card,7.03,Completed
+582,147,2022-12-13,PayPal,12.47,Returned
+583,30,2022-05-18,Credit Card,3.0,Completed
+584,334,2021-07-22,PayPal,4.6,Completed
+585,84,2022-07-27,Credit Card,14.51,Cancelled
+586,369,2021-07-11,PayPal,4.56,Completed
+587,281,2021-01-05,Credit Card,13.52,Completed
+588,424,2023-06-09,Credit Card,2.98,Returned
+589,344,2021-08-25,PayPal,9.33,Completed
+590,270,2022-11-24,Cash,5.19,Completed
+591,154,2021-11-07,Cash,3.97,Cancelled
+592,102,2022-07-03,Credit Card,12.21,Completed
+593,215,2021-02-25,PayPal,18.71,Returned
+594,150,2022-03-19,Cash,2.99,Completed
+595,432,2021-08-25,PayPal,9.59,Completed
+596,83,2023-05-20,Cash,14.74,Completed
+597,110,2023-05-11,PayPal,10.33,Cancelled
+598,435,2021-07-16,Credit Card,16.52,Completed
+599,387,2022-08-08,PayPal,5.23,Completed
+600,426,2022-07-25,Cash,19.27,Completed
+601,275,2023-01-22,Credit Card,8.93,Completed
+602,201,2022-05-29,PayPal,8.15,Completed
+603,284,2022-03-25,Cash,17.74,Returned
+604,468,2021-12-26,Credit Card,12.15,Completed
+605,173,2022-12-01,PayPal,11.3,Completed
+606,327,2023-03-30,Cash,15.09,Completed
+607,206,2021-01-30,PayPal,12.44,Completed
+608,63,2023-02-18,PayPal,4.93,Completed
+609,73,2021-04-18,Credit Card,14.14,Completed
+610,251,2023-04-24,Credit Card,4.4,Completed
+611,124,2022-08-25,Cash,16.51,Completed
+612,375,2022-12-18,Credit Card,19.82,Completed
+613,121,2023-06-10,Cash,8.79,Completed
+614,275,2022-03-21,PayPal,10.01,Completed
+615,431,2023-06-12,PayPal,2.84,Completed
+616,500,2022-03-14,Cash,2.25,Completed
+617,398,2023-01-02,PayPal,18.59,Completed
+618,120,2023-06-09,Credit Card,4.32,Completed
+619,422,2022-08-29,PayPal,10.02,Completed
+620,437,2022-04-02,Credit Card,16.68,Completed
+621,317,2022-09-07,Cash,18.01,Completed
+622,164,2023-01-05,Cash,11.35,Completed
+623,424,2022-11-29,PayPal,12.17,Completed
+624,465,2022-11-27,PayPal,14.05,Completed
+625,286,2022-05-10,Credit Card,19.3,Completed
+626,265,2022-11-05,Credit Card,12.85,Completed
+627,320,2021-09-04,PayPal,12.07,Completed
+628,161,2022-06-27,PayPal,2.26,Completed
+629,376,2022-07-18,Cash,3.46,Returned
+630,308,2023-05-07,Cash,12.39,Cancelled
+631,89,2022-08-11,Cash,18.85,Completed
+632,142,2023-06-16,PayPal,17.6,Completed
+633,203,2022-03-15,PayPal,19.69,Completed
+634,309,2021-10-05,PayPal,11.5,Completed
+635,227,2022-07-06,Cash,16.18,Completed
+636,489,2022-09-05,PayPal,17.13,Returned
+637,443,2021-04-21,Credit Card,13.66,Completed
+638,334,2022-01-20,PayPal,8.1,Cancelled
+639,222,2023-04-13,PayPal,10.46,Completed
+640,41,2023-01-31,PayPal,17.44,Completed
+641,196,2021-07-10,PayPal,7.37,Completed
+642,68,2022-05-05,PayPal,18.63,Returned
+643,476,2022-11-25,Credit Card,6.14,Completed
+644,264,2022-03-02,Credit Card,15.49,Completed
+645,2,2022-02-09,PayPal,13.35,Completed
+646,361,2021-12-01,Cash,15.49,Completed
+647,125,2021-07-28,PayPal,9.87,Completed
+648,110,2021-01-22,PayPal,18.79,Completed
+649,86,2022-11-09,PayPal,13.38,Completed
+650,425,2022-09-03,Cash,7.19,Completed
+651,120,2021-07-27,Cash,13.49,Completed
+652,127,2021-01-08,Cash,7.16,Completed
+653,255,2022-12-03,Credit Card,7.29,Completed
+654,183,2022-11-18,Cash,9.19,Completed
+655,16,2023-02-24,Credit Card,17.34,Completed
+656,477,2022-06-13,Credit Card,11.01,Returned
+657,62,2022-08-25,Cash,14.22,Returned
+658,369,2022-10-15,Cash,9.06,Completed
+659,432,2022-10-19,Cash,6.74,Completed
+660,158,2021-06-15,Credit Card,19.18,Completed
+661,268,2023-04-29,PayPal,12.86,Completed
+662,35,2022-05-11,Cash,18.81,Completed
+663,267,2022-08-13,Cash,5.66,Completed
+664,64,2022-03-05,Cash,4.64,Completed
+665,494,2023-02-13,Credit Card,17.4,Completed
+666,50,2021-06-12,Credit Card,14.26,Completed
+667,469,2022-01-01,PayPal,5.36,Completed
+668,255,2022-06-10,Cash,6.85,Completed
+669,149,2021-08-27,Credit Card,16.41,Completed
+670,325,2021-03-13,PayPal,10.17,Completed
+671,304,2022-03-21,Cash,14.07,Returned
+672,276,2022-10-17,Credit Card,7.73,Completed
+673,357,2023-04-02,Cash,8.86,Completed
+674,451,2022-05-24,Cash,19.83,Completed
+675,172,2023-03-06,Credit Card,6.46,Completed
+676,417,2021-09-26,Credit Card,11.12,Completed
+677,201,2023-01-23,Credit Card,17.2,Completed
+678,445,2022-02-19,Cash,6.31,Completed
+679,393,2021-09-02,Cash,9.47,Completed
+680,324,2022-11-06,PayPal,13.07,Completed
+681,35,2021-03-01,Cash,10.66,Completed
+682,465,2021-01-06,Credit Card,10.27,Completed
+683,482,2022-12-10,Cash,8.53,Returned
+684,216,2022-07-24,PayPal,12.56,Completed
+685,480,2023-03-28,PayPal,13.24,Completed
+686,65,2022-02-11,Credit Card,13.76,Completed
+687,8,2021-08-05,Credit Card,3.27,Completed
+688,301,2021-01-26,PayPal,13.36,Completed
+689,343,2023-03-26,PayPal,19.16,Completed
+690,431,2021-01-05,PayPal,11.74,Completed
+691,424,2022-06-16,Credit Card,14.87,Completed
+692,332,2022-01-25,PayPal,12.02,Completed
+693,438,2022-12-11,PayPal,17.39,Completed
+694,76,2022-07-25,Credit Card,18.73,Completed
+695,174,2022-03-24,Cash,5.32,Completed
+696,47,2023-01-24,Cash,9.86,Completed
+697,15,2021-05-26,PayPal,9.06,Completed
+698,361,2022-01-23,Cash,9.29,Cancelled
+699,147,2023-02-24,Cash,4.26,Completed
+700,26,2021-09-06,Cash,16.65,Completed
+701,308,2022-06-10,Cash,2.64,Cancelled
+702,93,2022-04-07,PayPal,11.51,Completed
+703,406,2021-01-13,Cash,13.91,Completed
+704,232,2022-01-19,Cash,5.73,Completed
+705,21,2022-07-10,Credit Card,18.31,Completed
+706,307,2023-06-06,PayPal,17.09,Completed
+707,38,2022-02-03,Credit Card,10.48,Completed
+708,276,2021-01-19,Credit Card,9.4,Completed
+709,157,2022-07-29,PayPal,6.26,Completed
+710,179,2022-05-06,Cash,15.14,Completed
+711,132,2023-01-21,Credit Card,4.37,Completed
+712,311,2022-02-23,PayPal,14.24,Completed
+713,455,2021-12-03,Cash,17.16,Completed
+714,348,2022-02-23,PayPal,6.11,Completed
+715,28,2022-09-04,Credit Card,17.6,Completed
+716,260,2022-11-06,Cash,2.6,Completed
+717,406,2021-05-02,Cash,18.43,Cancelled
+718,76,2022-03-08,PayPal,4.13,Completed
+719,429,2021-02-13,Cash,13.62,Completed
+720,67,2023-05-22,Credit Card,6.5,Returned
+721,342,2021-11-13,Credit Card,17.06,Completed
+722,492,2022-01-16,Credit Card,11.22,Completed
+723,194,2021-05-25,PayPal,4.43,Completed
+724,472,2021-11-23,Cash,12.28,Completed
+725,162,2021-12-29,Cash,9.34,Completed
+726,347,2021-02-19,Cash,13.91,Completed
+727,439,2021-03-06,Credit Card,17.87,Completed
+728,361,2021-12-21,Cash,9.37,Completed
+729,257,2023-03-11,Credit Card,7.22,Completed
+730,72,2021-06-13,Cash,2.26,Completed
+731,87,2021-05-21,Credit Card,12.35,Completed
+732,422,2023-04-06,Cash,9.24,Completed
+733,262,2021-05-08,PayPal,8.74,Completed
+734,214,2022-02-02,PayPal,5.29,Completed
+735,153,2023-05-30,Credit Card,9.74,Completed
+736,210,2022-04-08,Credit Card,19.72,Completed
+737,401,2023-01-21,Cash,7.36,Completed
+738,61,2023-04-16,Cash,12.79,Completed
+739,268,2023-03-19,PayPal,15.98,Completed
+740,262,2021-07-06,Cash,15.48,Cancelled
+741,218,2022-12-21,Credit Card,7.92,Cancelled
+742,283,2023-01-02,Credit Card,13.0,Completed
+743,136,2021-07-09,Credit Card,17.68,Completed
+744,467,2022-01-23,Credit Card,2.28,Completed
+745,380,2022-03-05,Credit Card,9.84,Completed
+746,362,2023-05-08,PayPal,6.04,Completed
+747,449,2021-10-11,PayPal,9.0,Cancelled
+748,441,2023-05-14,Credit Card,9.49,Completed
+749,93,2021-08-25,Cash,15.44,Completed
+750,109,2021-07-13,Credit Card,3.69,Completed
+751,241,2021-10-14,PayPal,11.23,Completed
+752,355,2023-02-10,Credit Card,12.16,Completed
+753,424,2023-01-28,PayPal,10.89,Completed
+754,142,2021-05-16,PayPal,15.17,Completed
+755,291,2023-03-03,Credit Card,8.91,Completed
+756,432,2023-02-22,Credit Card,19.01,Completed
+757,237,2021-06-20,Cash,10.67,Completed
+758,340,2021-06-08,PayPal,12.28,Completed
+759,312,2021-07-20,Cash,16.86,Completed
+760,177,2022-05-02,Credit Card,6.95,Completed
+761,141,2022-07-11,PayPal,3.35,Completed
+762,189,2023-02-15,Cash,14.74,Completed
+763,486,2022-08-06,Cash,10.69,Completed
+764,49,2022-05-19,Cash,18.14,Completed
+765,302,2023-05-26,Credit Card,19.69,Completed
+766,369,2022-01-06,Credit Card,9.18,Completed
+767,190,2021-04-13,Credit Card,9.48,Cancelled
+768,136,2021-05-05,PayPal,9.34,Completed
+769,43,2021-11-09,Credit Card,7.84,Completed
+770,404,2023-03-09,PayPal,16.07,Completed
+771,380,2022-04-03,Cash,15.66,Completed
+772,353,2021-08-18,Cash,10.62,Completed
+773,90,2022-10-20,Credit Card,2.8,Completed
+774,295,2023-06-01,Cash,7.57,Completed
+775,341,2021-07-16,Credit Card,7.26,Completed
+776,245,2023-06-04,PayPal,16.6,Returned
+777,433,2023-01-03,Cash,3.58,Completed
+778,192,2022-02-27,Credit Card,16.5,Completed
+779,318,2022-07-26,Cash,14.05,Completed
+780,106,2022-09-02,Cash,15.18,Completed
+781,363,2021-06-20,Credit Card,9.78,Completed
+782,310,2022-01-17,Cash,14.24,Completed
+783,382,2021-06-22,Cash,12.96,Completed
+784,233,2022-10-25,Cash,15.84,Completed
+785,265,2022-03-29,Cash,10.04,Completed
+786,344,2021-12-16,PayPal,10.51,Completed
+787,37,2022-09-26,Cash,13.58,Completed
+788,305,2022-05-09,Cash,3.95,Completed
+789,41,2022-09-12,Credit Card,9.85,Cancelled
+790,17,2021-01-04,PayPal,19.5,Completed
+791,344,2021-04-03,Credit Card,2.68,Completed
+792,277,2021-01-06,Credit Card,7.69,Completed
+793,307,2021-10-15,Credit Card,7.65,Completed
+794,59,2022-09-10,PayPal,13.4,Completed
+795,423,2021-05-26,Credit Card,3.9,Returned
+796,183,2023-02-22,Credit Card,13.31,Completed
+797,41,2022-02-28,Credit Card,3.71,Completed
+798,39,2023-06-09,Cash,3.71,Completed
+799,397,2022-08-31,Credit Card,15.11,Completed
+800,192,2022-04-02,PayPal,7.83,Completed
+801,267,2023-01-11,PayPal,19.59,Completed
+802,494,2021-07-21,Cash,2.67,Completed
+803,147,2021-07-31,PayPal,10.01,Cancelled
+804,395,2021-01-06,PayPal,4.04,Completed
+805,333,2022-09-16,Cash,8.32,Completed
+806,127,2022-01-11,Credit Card,19.97,Returned
+807,46,2023-06-10,Cash,18.0,Completed
+808,45,2022-03-23,Credit Card,2.87,Completed
+809,1,2023-04-15,Credit Card,12.14,Completed
+810,168,2021-04-16,PayPal,13.66,Completed
+811,108,2022-10-13,Cash,5.77,Cancelled
+812,19,2023-03-22,PayPal,4.61,Returned
+813,332,2022-02-05,PayPal,18.28,Returned
+814,72,2021-04-06,Credit Card,19.44,Completed
+815,456,2022-01-23,PayPal,19.85,Completed
+816,445,2022-03-28,Cash,16.22,Returned
+817,109,2023-04-29,PayPal,13.94,Cancelled
+818,268,2023-03-20,PayPal,8.22,Completed
+819,445,2022-02-20,Credit Card,5.09,Completed
+820,240,2022-12-27,Cash,3.42,Completed
+821,417,2022-05-19,PayPal,14.48,Completed
+822,301,2022-03-30,Credit Card,16.13,Completed
+823,90,2021-10-18,PayPal,16.88,Returned
+824,103,2022-06-18,Cash,18.45,Returned
+825,476,2021-07-12,PayPal,17.84,Completed
+826,250,2021-05-30,PayPal,20.0,Completed
+827,453,2023-05-30,Credit Card,6.39,Completed
+828,8,2023-01-29,PayPal,15.74,Completed
+829,153,2023-02-18,Credit Card,12.56,Completed
+830,347,2023-02-02,Cash,6.7,Completed
+831,174,2022-05-30,PayPal,19.67,Returned
+832,343,2022-01-28,Cash,18.16,Returned
+833,158,2021-11-12,Cash,4.31,Completed
+834,493,2021-03-17,PayPal,2.47,Completed
+835,431,2022-08-22,Credit Card,14.39,Returned
+836,215,2021-09-27,Cash,12.87,Completed
+837,177,2021-08-13,Cash,18.84,Completed
+838,175,2022-06-14,PayPal,6.21,Completed
+839,340,2021-04-23,PayPal,3.52,Completed
+840,338,2021-09-08,PayPal,6.67,Completed
+841,146,2021-08-21,PayPal,2.34,Completed
+842,450,2023-04-21,PayPal,2.65,Returned
+843,324,2023-03-02,PayPal,18.47,Completed
+844,478,2022-12-15,Credit Card,8.34,Returned
+845,161,2021-03-24,Cash,9.39,Returned
+846,127,2021-05-05,Credit Card,2.33,Completed
+847,420,2021-06-24,Credit Card,6.87,Completed
+848,82,2021-03-10,PayPal,16.49,Completed
+849,485,2021-02-16,Cash,13.08,Completed
+850,147,2023-06-03,Credit Card,15.57,Completed
+851,239,2021-09-13,PayPal,10.05,Completed
+852,412,2022-12-28,PayPal,7.58,Completed
+853,424,2021-01-30,Cash,10.69,Completed
+854,84,2021-10-08,Credit Card,7.82,Returned
+855,113,2021-08-25,Credit Card,17.1,Completed
+856,225,2021-09-05,Credit Card,7.36,Completed
+857,332,2022-01-03,PayPal,13.88,Completed
+858,378,2022-05-10,Cash,4.47,Completed
+859,243,2021-01-25,Cash,14.36,Completed
+860,143,2022-08-09,Credit Card,18.44,Completed
+861,41,2022-12-19,PayPal,12.95,Completed
+862,423,2022-05-05,Credit Card,12.08,Completed
+863,258,2022-05-09,Cash,19.3,Completed
+864,447,2021-11-10,PayPal,13.29,Completed
+865,285,2022-08-29,Credit Card,6.67,Completed
+866,105,2022-01-10,Credit Card,7.26,Completed
+867,202,2022-10-01,PayPal,14.7,Returned
+868,450,2021-01-25,Cash,15.24,Completed
+869,307,2021-11-30,PayPal,7.46,Returned
+870,331,2021-12-21,Credit Card,8.22,Completed
+871,461,2021-04-26,Credit Card,19.84,Completed
+872,266,2021-02-17,Credit Card,3.84,Completed
+873,398,2023-01-08,Credit Card,9.28,Completed
+874,210,2023-02-17,Cash,3.12,Completed
+875,51,2021-04-09,Cash,16.78,Returned
+876,118,2022-04-04,Credit Card,3.66,Completed
+877,201,2022-06-07,Cash,14.13,Cancelled
+878,377,2022-08-20,Cash,3.02,Completed
+879,39,2022-02-09,Cash,14.11,Completed
+880,28,2021-08-02,Credit Card,17.17,Returned
+881,259,2022-11-16,PayPal,9.18,Completed
+882,84,2022-05-18,PayPal,11.4,Completed
+883,454,2022-12-22,PayPal,9.23,Returned
+884,155,2022-03-24,Credit Card,7.41,Completed
+885,117,2023-06-13,Cash,16.46,Completed
+886,2,2022-07-30,Cash,6.9,Returned
+887,93,2021-09-15,Credit Card,15.01,Completed
+888,166,2023-04-24,Credit Card,5.71,Returned
+889,387,2021-05-01,PayPal,6.5,Completed
+890,400,2023-03-21,PayPal,8.06,Completed
+891,350,2021-02-23,Credit Card,12.6,Completed
+892,296,2021-11-27,PayPal,10.18,Completed
+893,258,2023-02-23,Cash,15.41,Completed
+894,81,2021-08-29,Credit Card,5.84,Completed
+895,425,2023-01-25,Credit Card,2.19,Completed
+896,268,2022-06-14,Cash,15.98,Completed
+897,419,2022-04-28,Cash,16.79,Completed
+898,235,2021-07-06,Cash,3.07,Completed
+899,321,2023-05-08,PayPal,13.0,Completed
+900,311,2022-10-18,Credit Card,8.81,Completed
+901,301,2021-09-19,PayPal,16.29,Completed
+902,463,2021-12-30,Cash,17.74,Completed
+903,474,2022-05-06,PayPal,17.32,Completed
+904,357,2022-03-07,Cash,15.99,Completed
+905,213,2021-08-27,PayPal,6.84,Completed
+906,62,2021-10-31,PayPal,16.61,Completed
+907,49,2021-10-25,Cash,11.6,Completed
+908,127,2021-03-17,PayPal,2.95,Cancelled
+909,223,2022-12-01,Credit Card,10.22,Returned
+910,409,2021-11-29,PayPal,18.96,Completed
+911,279,2023-06-19,PayPal,17.98,Completed
+912,408,2023-01-28,Credit Card,3.84,Returned
+913,294,2022-10-04,Cash,15.39,Completed
+914,284,2022-04-19,Credit Card,16.5,Completed
+915,277,2023-04-07,PayPal,6.88,Completed
+916,438,2021-10-10,Cash,10.49,Completed
+917,107,2022-08-14,PayPal,14.8,Completed
+918,146,2021-03-13,PayPal,9.9,Completed
+919,420,2021-09-20,Credit Card,4.03,Completed
+920,99,2022-12-04,Credit Card,14.71,Completed
+921,429,2023-05-29,Cash,18.41,Returned
+922,375,2023-06-06,Cash,13.74,Completed
+923,73,2022-07-29,Cash,15.93,Completed
+924,437,2023-06-11,PayPal,8.45,Completed
+925,486,2021-01-12,Credit Card,5.3,Completed
+926,122,2021-05-21,Credit Card,13.57,Completed
+927,30,2023-02-05,Credit Card,7.9,Completed
+928,188,2022-07-09,Cash,17.48,Completed
+929,364,2021-01-17,Credit Card,4.21,Completed
+930,354,2021-03-04,Credit Card,9.8,Completed
+931,288,2021-09-10,Credit Card,9.14,Completed
+932,451,2022-04-10,Cash,18.88,Completed
+933,195,2022-01-11,Credit Card,4.76,Completed
+934,156,2023-03-15,Cash,2.18,Completed
+935,172,2022-06-04,Credit Card,6.29,Completed
+936,335,2023-04-17,Credit Card,16.76,Completed
+937,41,2021-03-31,Credit Card,5.77,Completed
+938,63,2022-12-21,Cash,6.34,Completed
+939,23,2023-03-15,Cash,4.34,Completed
+940,360,2023-03-07,Credit Card,14.88,Cancelled
+941,75,2022-09-22,PayPal,3.25,Cancelled
+942,48,2023-05-11,Cash,7.96,Completed
+943,160,2021-06-24,Cash,7.08,Completed
+944,313,2021-03-17,Credit Card,11.99,Completed
+945,118,2022-09-05,PayPal,15.15,Completed
+946,100,2022-10-25,Credit Card,11.59,Completed
+947,380,2022-02-04,Cash,18.76,Completed
+948,417,2023-02-21,Cash,19.13,Completed
+949,408,2021-03-12,Credit Card,8.51,Completed
+950,167,2021-06-29,Credit Card,16.0,Completed
+951,290,2021-05-04,PayPal,15.3,Completed
+952,440,2022-01-16,PayPal,18.07,Completed
+953,156,2021-10-20,Cash,10.06,Completed
+954,421,2023-03-08,PayPal,11.55,Completed
+955,7,2021-07-14,PayPal,9.48,Completed
+956,196,2021-08-16,Cash,17.31,Completed
+957,421,2022-03-07,Cash,6.13,Completed
+958,56,2022-03-12,Cash,6.31,Completed
+959,321,2023-02-26,Cash,8.71,Completed
+960,193,2022-04-06,Credit Card,6.15,Completed
+961,47,2022-09-10,Cash,12.1,Completed
+962,148,2021-01-21,Cash,4.42,Completed
+963,275,2021-03-05,Cash,7.76,Completed
+964,157,2021-06-14,PayPal,18.44,Cancelled
+965,202,2021-01-27,Cash,9.37,Completed
+966,444,2021-11-07,Credit Card,15.47,Completed
+967,402,2021-10-12,Credit Card,4.04,Completed
+968,476,2022-10-22,Cash,6.46,Cancelled
+969,419,2021-10-08,Credit Card,16.53,Completed
+970,427,2023-04-18,PayPal,15.73,Completed
+971,495,2023-04-11,Cash,8.95,Completed
+972,479,2021-06-13,Credit Card,19.18,Cancelled
+973,475,2023-06-17,Credit Card,18.39,Completed
+974,126,2021-08-12,Cash,19.32,Completed
+975,395,2023-02-23,Credit Card,9.7,Completed
+976,305,2021-05-26,Cash,5.55,Completed
+977,369,2023-05-18,Credit Card,13.28,Returned
+978,294,2021-01-30,PayPal,14.33,Completed
+979,64,2021-02-14,Credit Card,4.26,Completed
+980,325,2023-02-26,Credit Card,16.16,Returned
+981,392,2022-04-16,Cash,2.33,Cancelled
+982,418,2021-02-03,Credit Card,10.69,Completed
+983,176,2022-10-15,Cash,7.96,Completed
+984,116,2022-03-03,PayPal,15.33,Completed
+985,440,2023-04-10,Cash,7.63,Completed
+986,204,2023-06-05,Cash,16.88,Returned
+987,486,2021-08-09,Credit Card,12.71,Returned
+988,321,2023-05-18,PayPal,16.29,Completed
+989,31,2022-06-18,Cash,19.81,Cancelled
+990,388,2022-11-23,Credit Card,14.22,Completed
+991,113,2022-01-02,Credit Card,19.73,Completed
+992,365,2023-04-21,Cash,2.52,Completed
+993,434,2023-01-13,Credit Card,8.09,Returned
+994,325,2022-07-04,Cash,3.94,Completed
+995,414,2022-08-05,Cash,6.72,Completed
+996,376,2021-04-26,Cash,17.1,Returned
+997,344,2021-08-27,PayPal,2.58,Completed
+998,443,2021-12-01,Cash,11.36,Completed
+999,67,2022-03-17,Credit Card,12.21,Returned
+1000,75,2021-05-28,PayPal,12.1,Completed
+1001,45,2021-01-09,Credit Card,10.56,Returned
+1002,260,2021-10-15,PayPal,16.23,Returned
+1003,154,2022-01-23,PayPal,4.4,Completed
+1004,155,2021-02-19,PayPal,7.59,Completed
+1005,430,2023-04-30,PayPal,13.08,Completed
+1006,363,2022-06-01,Credit Card,14.44,Completed
+1007,448,2023-05-05,Cash,9.27,Completed
+1008,475,2022-09-30,Credit Card,17.76,Completed
+1009,234,2022-08-10,Cash,9.48,Completed
+1010,51,2022-11-08,Credit Card,9.25,Completed
+1011,306,2021-10-05,PayPal,2.65,Completed
+1012,262,2023-04-16,PayPal,11.92,Completed
+1013,315,2021-10-27,Cash,14.76,Completed
+1014,125,2023-03-13,Cash,4.06,Completed
+1015,399,2022-08-12,Credit Card,7.5,Completed
+1016,245,2023-03-21,Cash,16.06,Completed
+1017,30,2022-10-11,Credit Card,8.59,Completed
+1018,426,2022-09-10,Cash,6.35,Completed
+1019,485,2022-08-30,Cash,14.1,Completed
+1020,122,2021-05-15,Cash,5.54,Completed
+1021,125,2022-08-03,PayPal,18.12,Completed
+1022,37,2021-05-27,PayPal,3.9,Completed
+1023,170,2022-05-05,Credit Card,14.72,Completed
+1024,124,2022-04-23,Cash,10.99,Completed
+1025,357,2021-06-08,Credit Card,17.66,Completed
+1026,35,2022-01-19,Cash,4.27,Completed
+1027,87,2021-06-12,PayPal,14.2,Cancelled
+1028,134,2022-03-17,PayPal,12.3,Completed
+1029,196,2023-05-03,Cash,10.64,Completed
+1030,274,2021-07-08,Cash,10.85,Returned
+1031,201,2022-02-19,PayPal,15.0,Completed
+1032,369,2021-12-05,PayPal,18.88,Completed
+1033,285,2022-08-30,Credit Card,3.64,Completed
+1034,77,2021-06-30,PayPal,2.35,Completed
+1035,59,2021-10-15,Cash,16.5,Completed
+1036,431,2023-04-14,Credit Card,3.95,Completed
+1037,126,2021-07-06,Cash,19.76,Completed
+1038,500,2023-06-03,Credit Card,13.15,Completed
+1039,401,2021-05-18,Cash,13.72,Completed
+1040,109,2021-05-10,PayPal,5.58,Completed
+1041,224,2021-07-13,Cash,6.33,Completed
+1042,496,2021-11-12,Credit Card,13.87,Completed
+1043,278,2023-02-24,Cash,18.38,Completed
+1044,68,2023-05-14,Credit Card,19.68,Completed
+1045,69,2021-05-24,Cash,5.56,Completed
+1046,165,2021-01-16,PayPal,4.41,Completed
+1047,489,2021-10-29,PayPal,3.02,Completed
+1048,305,2022-02-27,Cash,17.63,Completed
+1049,397,2021-09-02,Cash,7.3,Completed
+1050,162,2021-04-17,Cash,2.03,Completed
+1051,365,2021-03-29,Credit Card,6.03,Completed
+1052,342,2021-05-09,Cash,8.13,Completed
+1053,309,2023-06-06,Cash,19.84,Completed
+1054,379,2021-12-07,Credit Card,11.42,Completed
+1055,343,2021-01-04,PayPal,5.68,Completed
+1056,435,2021-11-23,Cash,8.03,Returned
+1057,387,2022-02-14,Cash,7.95,Completed
+1058,42,2023-05-29,PayPal,2.36,Completed
+1059,354,2021-11-02,PayPal,4.43,Completed
+1060,416,2022-08-30,Credit Card,14.51,Completed
+1061,109,2022-12-22,Cash,4.16,Completed
+1062,51,2021-08-13,Cash,6.15,Completed
+1063,250,2021-12-14,Credit Card,8.31,Completed
+1064,497,2021-11-17,PayPal,15.64,Completed
+1065,341,2022-07-13,Credit Card,12.48,Completed
+1066,430,2021-06-30,PayPal,14.4,Completed
+1067,383,2022-09-10,Credit Card,12.21,Completed
+1068,492,2022-12-12,PayPal,14.3,Completed
+1069,21,2022-01-21,Credit Card,2.05,Completed
+1070,300,2022-09-10,PayPal,18.76,Completed
+1071,139,2023-03-03,PayPal,4.0,Completed
+1072,359,2023-02-11,PayPal,9.31,Cancelled
+1073,324,2021-04-18,PayPal,15.88,Completed
+1074,499,2022-06-15,PayPal,9.83,Completed
+1075,385,2022-02-14,Cash,19.04,Completed
+1076,92,2021-10-23,PayPal,10.42,Completed
+1077,447,2023-03-29,Cash,17.75,Returned
+1078,280,2021-06-20,PayPal,16.59,Cancelled
+1079,125,2021-11-27,Cash,19.66,Completed
+1080,483,2022-05-08,Cash,18.68,Completed
+1081,397,2021-07-14,Credit Card,18.17,Completed
+1082,111,2021-01-12,PayPal,15.17,Completed
+1083,354,2021-07-14,Credit Card,8.61,Completed
+1084,139,2022-05-05,Credit Card,3.91,Completed
+1085,484,2023-03-06,PayPal,14.4,Completed
+1086,435,2023-05-31,Credit Card,19.62,Completed
+1087,273,2021-07-01,PayPal,15.08,Returned
+1088,99,2023-03-28,Credit Card,18.72,Completed
+1089,252,2022-10-18,PayPal,16.48,Completed
+1090,338,2023-06-17,PayPal,4.94,Completed
+1091,104,2021-11-12,PayPal,6.49,Completed
+1092,214,2022-11-25,Cash,8.15,Completed
+1093,249,2021-01-30,Credit Card,5.03,Completed
+1094,152,2022-08-19,Cash,12.47,Completed
+1095,250,2022-11-09,Credit Card,19.56,Completed
+1096,275,2023-03-07,Credit Card,15.71,Completed
+1097,165,2023-03-04,Credit Card,9.62,Completed
+1098,487,2021-04-06,Cash,2.08,Completed
+1099,341,2022-01-16,Credit Card,7.64,Completed
+1100,8,2023-02-17,Cash,11.48,Completed
+1101,284,2022-03-20,PayPal,7.84,Completed
+1102,5,2021-10-25,Credit Card,4.0,Completed
+1103,145,2023-03-19,Credit Card,9.97,Completed
+1104,101,2023-01-07,PayPal,6.56,Completed
+1105,164,2023-04-25,PayPal,18.37,Completed
+1106,374,2021-12-27,Credit Card,3.83,Completed
+1107,147,2022-01-09,PayPal,2.88,Completed
+1108,64,2022-07-08,Cash,2.1,Completed
+1109,91,2021-10-30,Cash,7.91,Completed
+1110,117,2022-02-25,Credit Card,13.89,Completed
+1111,354,2021-09-03,Cash,15.15,Completed
+1112,267,2022-12-21,Cash,10.16,Completed
+1113,310,2021-08-25,Credit Card,14.32,Completed
+1114,173,2022-06-18,PayPal,8.48,Completed
+1115,47,2021-07-04,Credit Card,14.02,Cancelled
+1116,140,2022-04-13,Cash,2.73,Completed
+1117,246,2023-01-24,Credit Card,9.03,Completed
+1118,149,2021-12-29,Credit Card,16.24,Completed
+1119,246,2021-10-10,Cash,16.45,Cancelled
+1120,395,2022-07-07,Cash,14.89,Cancelled
+1121,487,2021-12-02,Credit Card,5.68,Completed
+1122,476,2021-06-11,Cash,6.45,Completed
+1123,5,2021-06-09,Cash,19.93,Returned
+1124,465,2022-04-19,Cash,3.86,Completed
+1125,184,2022-08-24,Cash,5.25,Completed
+1126,20,2021-11-18,Cash,4.34,Completed
+1127,425,2021-01-12,Cash,7.9,Completed
+1128,46,2022-02-28,PayPal,5.78,Completed
+1129,12,2021-03-14,Credit Card,10.96,Completed
+1130,70,2022-08-11,Cash,10.57,Completed
+1131,17,2023-05-08,Credit Card,18.23,Completed
+1132,371,2021-07-20,PayPal,2.63,Completed
+1133,147,2022-06-06,Cash,7.76,Completed
+1134,154,2023-05-14,Credit Card,12.74,Completed
+1135,304,2022-05-20,Cash,12.89,Completed
+1136,108,2023-01-08,Cash,10.64,Completed
+1137,236,2022-11-19,Cash,16.68,Returned
+1138,308,2023-02-27,Cash,3.13,Completed
+1139,352,2021-02-08,Cash,16.68,Completed
+1140,70,2021-03-01,Cash,10.91,Completed
+1141,183,2022-08-01,Cash,4.41,Completed
+1142,250,2021-11-17,PayPal,17.94,Completed
+1143,228,2022-03-11,PayPal,13.69,Returned
+1144,102,2022-09-28,Cash,4.94,Completed
+1145,75,2022-11-07,Cash,2.61,Completed
+1146,417,2022-02-12,PayPal,4.54,Completed
+1147,446,2022-01-21,PayPal,12.96,Completed
+1148,216,2022-11-02,PayPal,5.23,Completed
+1149,407,2022-07-23,Cash,6.06,Completed
+1150,399,2021-03-19,Credit Card,2.45,Completed
+1151,411,2021-07-13,Credit Card,15.01,Returned
+1152,203,2021-10-12,Credit Card,16.59,Completed
+1153,192,2022-06-11,Credit Card,16.34,Completed
+1154,249,2022-06-08,Cash,4.3,Completed
+1155,499,2022-09-05,Credit Card,18.26,Completed
+1156,242,2021-06-05,PayPal,14.1,Completed
+1157,465,2021-12-06,PayPal,18.16,Completed
+1158,179,2021-05-05,Credit Card,10.05,Completed
+1159,437,2023-05-21,PayPal,9.87,Returned
+1160,462,2021-10-07,Cash,16.12,Completed
+1161,219,2022-09-14,Credit Card,3.68,Completed
+1162,82,2023-04-26,Credit Card,11.38,Returned
+1163,92,2023-05-19,Cash,17.05,Completed
+1164,435,2022-10-20,PayPal,16.94,Completed
+1165,175,2022-12-29,Cash,19.21,Completed
+1166,239,2022-11-05,Cash,14.57,Completed
+1167,260,2021-05-08,PayPal,5.74,Completed
+1168,391,2021-11-10,Cash,2.37,Completed
+1169,365,2021-11-28,PayPal,10.63,Completed
+1170,163,2021-05-30,PayPal,11.25,Completed
+1171,48,2022-03-30,Cash,6.32,Completed
+1172,329,2021-02-05,PayPal,4.24,Completed
+1173,328,2022-11-16,Cash,12.55,Completed
+1174,116,2022-02-24,PayPal,15.76,Completed
+1175,429,2021-01-22,Credit Card,19.88,Returned
+1176,337,2021-07-25,PayPal,15.65,Cancelled
+1177,337,2022-10-01,PayPal,16.29,Completed
+1178,369,2023-04-28,Cash,13.1,Completed
+1179,225,2021-12-22,PayPal,19.75,Completed
+1180,352,2022-03-16,Credit Card,13.52,Completed
+1181,328,2022-12-30,Credit Card,17.48,Completed
+1182,147,2021-04-06,PayPal,19.02,Completed
+1183,63,2021-06-13,PayPal,18.74,Completed
+1184,294,2021-05-28,Credit Card,8.87,Completed
+1185,323,2022-06-14,Cash,3.42,Completed
+1186,443,2021-10-21,Credit Card,5.09,Completed
+1187,325,2021-07-14,Credit Card,3.07,Completed
+1188,13,2022-10-25,PayPal,3.9,Completed
+1189,431,2022-04-25,PayPal,5.32,Returned
+1190,494,2023-05-27,Credit Card,8.14,Completed
+1191,189,2021-05-03,Cash,11.78,Completed
+1192,287,2022-02-04,Credit Card,14.81,Completed
+1193,208,2022-11-30,Credit Card,5.8,Completed
+1194,114,2022-03-28,Cash,14.11,Completed
+1195,480,2022-10-23,Credit Card,14.68,Completed
+1196,22,2021-04-14,Credit Card,12.06,Completed
+1197,349,2023-01-25,PayPal,18.27,Completed
+1198,214,2022-04-07,Cash,4.0,Completed
+1199,171,2023-01-13,PayPal,5.19,Completed
+1200,323,2022-12-19,PayPal,9.72,Completed
+1201,54,2022-12-11,Cash,4.28,Returned
+1202,394,2022-01-31,Cash,12.19,Completed
+1203,298,2021-12-03,Credit Card,9.17,Completed
+1204,320,2022-08-22,PayPal,7.12,Completed
+1205,126,2021-05-22,Cash,5.06,Completed
+1206,277,2021-11-13,PayPal,8.04,Completed
+1207,464,2022-12-12,PayPal,12.94,Completed
+1208,204,2022-07-12,Cash,12.36,Returned
+1209,194,2023-03-11,Credit Card,4.95,Returned
+1210,169,2022-06-11,PayPal,4.25,Completed
+1211,152,2022-07-10,Cash,2.48,Completed
+1212,35,2022-02-05,Credit Card,2.22,Completed
+1213,184,2022-11-12,PayPal,17.84,Completed
+1214,286,2021-11-06,Cash,2.81,Completed
+1215,57,2022-05-10,PayPal,15.16,Completed
+1216,222,2022-07-10,Cash,17.7,Completed
+1217,303,2022-09-02,Cash,3.77,Completed
+1218,163,2023-02-12,PayPal,9.85,Completed
+1219,19,2021-04-19,PayPal,19.32,Completed
+1220,370,2023-03-06,Cash,17.01,Cancelled
+1221,264,2022-01-07,Credit Card,10.81,Completed
+1222,282,2023-05-05,PayPal,15.73,Completed
+1223,113,2022-09-08,Cash,17.0,Completed
+1224,488,2023-02-07,Cash,8.26,Completed
+1225,327,2023-06-10,Credit Card,18.06,Completed
+1226,30,2021-07-25,Credit Card,10.47,Cancelled
+1227,135,2023-04-27,Credit Card,11.5,Completed
+1228,67,2021-02-12,PayPal,19.99,Completed
+1229,65,2023-05-15,Cash,17.18,Completed
+1230,292,2021-09-02,Cash,8.51,Completed
+1231,25,2021-10-14,Cash,2.19,Completed
+1232,37,2021-12-21,Credit Card,13.27,Completed
+1233,1,2023-02-24,Cash,14.67,Returned
+1234,399,2022-04-21,PayPal,13.71,Completed
+1235,37,2021-03-24,Credit Card,19.42,Completed
+1236,141,2021-04-20,Credit Card,17.53,Completed
+1237,232,2021-07-09,Credit Card,10.08,Completed
+1238,136,2023-03-11,Credit Card,3.13,Completed
+1239,389,2021-09-08,PayPal,10.57,Completed
+1240,188,2022-12-25,Cash,14.41,Completed
+1241,128,2021-10-18,PayPal,12.94,Completed
+1242,201,2022-10-07,Cash,11.69,Completed
+1243,127,2021-07-20,PayPal,10.44,Completed
+1244,257,2023-03-08,Credit Card,7.29,Completed
+1245,164,2021-11-22,Credit Card,6.99,Returned
+1246,35,2022-05-26,PayPal,11.0,Completed
+1247,194,2022-02-13,PayPal,4.89,Returned
+1248,191,2022-08-30,Cash,8.13,Completed
+1249,104,2023-03-01,PayPal,7.83,Completed
+1250,23,2023-04-17,PayPal,12.57,Completed
+1251,265,2022-05-23,Cash,3.2,Completed
+1252,290,2023-01-01,Cash,16.93,Completed
+1253,430,2022-08-24,Cash,12.12,Completed
+1254,462,2021-03-13,PayPal,14.07,Completed
+1255,384,2021-09-04,Cash,14.66,Completed
+1256,260,2022-10-03,Credit Card,7.25,Completed
+1257,414,2022-12-25,Credit Card,10.47,Cancelled
+1258,479,2023-05-05,Credit Card,19.21,Completed
+1259,358,2022-08-31,PayPal,15.8,Completed
+1260,75,2022-08-10,Credit Card,19.45,Completed
+1261,355,2022-07-20,PayPal,15.43,Cancelled
+1262,72,2021-12-10,PayPal,5.16,Completed
+1263,259,2021-02-23,Credit Card,3.16,Completed
+1264,398,2022-12-31,Cash,12.4,Completed
+1265,188,2022-06-12,PayPal,8.44,Completed
+1266,461,2022-09-03,Credit Card,6.96,Completed
+1267,173,2022-06-16,PayPal,16.53,Completed
+1268,480,2022-07-12,Cash,8.61,Returned
+1269,290,2021-07-12,Cash,7.71,Cancelled
+1270,45,2023-06-14,Credit Card,17.3,Completed
+1271,61,2021-02-27,PayPal,17.23,Completed
+1272,83,2022-03-13,PayPal,8.41,Completed
+1273,123,2021-04-21,PayPal,16.98,Completed
+1274,358,2021-05-09,PayPal,17.31,Completed
+1275,16,2023-04-29,Credit Card,9.63,Completed
+1276,66,2022-12-07,Cash,3.2,Returned
+1277,424,2023-05-02,Credit Card,2.03,Completed
+1278,145,2021-11-22,PayPal,11.42,Completed
+1279,375,2021-01-08,PayPal,8.19,Completed
+1280,162,2021-01-29,Cash,19.95,Completed
+1281,234,2021-04-22,PayPal,15.9,Completed
+1282,380,2022-11-04,Credit Card,15.7,Completed
+1283,144,2021-05-11,Credit Card,19.19,Completed
+1284,358,2021-07-07,Cash,17.98,Completed
+1285,188,2022-11-06,Credit Card,7.73,Completed
+1286,322,2022-12-10,Credit Card,4.99,Completed
+1287,450,2022-04-20,Credit Card,15.43,Completed
+1288,474,2021-12-30,Credit Card,8.81,Completed
+1289,13,2021-07-23,PayPal,10.52,Completed
+1290,184,2021-07-31,Credit Card,13.35,Completed
+1291,111,2022-09-13,Cash,18.34,Completed
+1292,415,2021-10-03,Cash,9.54,Completed
+1293,290,2021-03-14,Credit Card,16.1,Completed
+1294,295,2022-11-10,Cash,6.83,Completed
+1295,451,2023-02-11,Credit Card,14.56,Completed
+1296,392,2021-08-31,Cash,2.03,Completed
+1297,215,2023-02-26,Cash,17.69,Completed
+1298,462,2021-04-12,Credit Card,2.55,Completed
+1299,120,2022-11-16,Credit Card,14.83,Completed
+1300,382,2021-06-20,PayPal,2.83,Completed
+1301,55,2022-10-15,Credit Card,6.79,Completed
+1302,27,2021-07-07,Credit Card,10.95,Cancelled
+1303,118,2022-03-17,PayPal,9.56,Completed
+1304,221,2021-03-27,Credit Card,5.45,Returned
+1305,231,2022-04-21,Credit Card,8.01,Completed
+1306,53,2021-02-21,PayPal,15.1,Completed
+1307,295,2021-04-21,Credit Card,14.05,Returned
+1308,321,2023-05-27,Credit Card,3.29,Completed
+1309,401,2023-05-04,PayPal,15.45,Completed
+1310,233,2021-02-12,PayPal,2.95,Completed
+1311,158,2021-07-30,Cash,11.77,Cancelled
+1312,437,2021-07-19,Credit Card,6.68,Completed
+1313,269,2023-03-21,Cash,12.58,Completed
+1314,21,2023-05-08,Cash,6.7,Completed
+1315,403,2023-01-22,PayPal,19.73,Completed
+1316,53,2022-09-19,Credit Card,7.58,Completed
+1317,275,2021-01-26,Credit Card,6.36,Completed
+1318,313,2021-10-26,PayPal,7.01,Completed
+1319,281,2021-03-18,Cash,18.14,Completed
+1320,214,2021-05-17,PayPal,13.45,Completed
+1321,31,2021-01-20,Credit Card,15.15,Completed
+1322,337,2022-03-16,PayPal,18.52,Completed
+1323,183,2021-07-30,Credit Card,18.41,Completed
+1324,23,2023-01-22,Cash,15.3,Completed
+1325,32,2022-07-05,Credit Card,5.56,Completed
+1326,446,2022-03-11,Cash,17.18,Completed
+1327,74,2023-02-19,Cash,5.67,Completed
+1328,10,2021-07-26,Credit Card,15.37,Completed
+1329,484,2022-03-15,Credit Card,14.34,Completed
+1330,456,2023-02-18,Cash,15.66,Completed
+1331,54,2022-10-28,PayPal,11.59,Completed
+1332,52,2021-02-11,Credit Card,13.5,Completed
+1333,148,2022-02-15,Cash,19.16,Returned
+1334,160,2022-06-07,Cash,3.82,Completed
+1335,370,2023-03-17,PayPal,7.56,Completed
+1336,14,2022-09-02,Credit Card,13.0,Completed
+1337,178,2022-03-03,Cash,19.35,Completed
+1338,412,2021-10-02,PayPal,3.72,Completed
+1339,366,2022-03-24,Cash,2.41,Completed
+1340,500,2023-06-03,Credit Card,3.0,Completed
+1341,53,2023-01-12,PayPal,2.94,Completed
+1342,408,2022-01-04,Cash,18.34,Completed
+1343,335,2021-08-08,PayPal,14.98,Completed
+1344,22,2022-07-31,Credit Card,14.19,Completed
+1345,30,2023-05-17,PayPal,11.41,Cancelled
+1346,191,2021-08-20,Credit Card,16.08,Completed
+1347,260,2021-11-24,Cash,4.8,Completed
+1348,205,2022-03-19,Credit Card,9.05,Completed
+1349,59,2021-02-21,Cash,10.82,Completed
+1350,471,2023-06-05,Cash,3.99,Completed
+1351,264,2022-01-11,Credit Card,9.55,Completed
+1352,466,2021-09-20,Cash,7.7,Completed
+1353,12,2021-09-24,PayPal,2.64,Returned
+1354,119,2021-12-25,Cash,4.46,Completed
+1355,415,2021-11-13,Credit Card,15.75,Completed
+1356,462,2021-11-20,PayPal,2.32,Completed
+1357,290,2022-10-28,PayPal,18.82,Returned
+1358,338,2023-05-20,Cash,3.56,Completed
+1359,248,2023-05-28,Cash,16.39,Completed
+1360,354,2022-10-14,Credit Card,18.18,Cancelled
+1361,127,2022-07-17,PayPal,18.94,Completed
+1362,75,2022-09-21,Credit Card,17.61,Completed
+1363,361,2022-02-25,Cash,7.18,Completed
+1364,204,2021-02-15,PayPal,8.0,Cancelled
+1365,49,2023-04-01,Credit Card,9.68,Completed
+1366,79,2022-08-23,Credit Card,4.51,Completed
+1367,441,2022-12-21,Credit Card,2.4,Completed
+1368,479,2023-06-08,Credit Card,17.64,Completed
+1369,241,2021-09-26,Credit Card,11.97,Cancelled
+1370,349,2022-08-24,PayPal,12.96,Completed
+1371,154,2022-01-16,Credit Card,18.69,Completed
+1372,274,2021-04-28,PayPal,13.97,Returned
+1373,96,2022-07-20,Credit Card,14.44,Completed
+1374,214,2021-04-26,Cash,16.17,Completed
+1375,294,2022-09-22,Cash,4.09,Returned
+1376,209,2021-09-17,Credit Card,8.48,Completed
+1377,343,2021-03-16,Cash,19.43,Completed
+1378,88,2022-04-25,PayPal,18.61,Completed
+1379,306,2021-11-01,Credit Card,17.91,Completed
+1380,264,2021-01-07,PayPal,10.14,Returned
+1381,425,2022-01-01,Credit Card,17.43,Completed
+1382,390,2022-09-26,Cash,2.87,Completed
+1383,325,2022-06-07,PayPal,4.67,Completed
+1384,428,2021-12-14,Cash,9.45,Completed
+1385,377,2022-03-14,Cash,10.7,Completed
+1386,320,2021-08-03,Credit Card,6.74,Completed
+1387,157,2022-03-05,PayPal,8.42,Returned
+1388,156,2023-03-02,Cash,4.93,Completed
+1389,139,2022-05-13,Credit Card,10.8,Completed
+1390,121,2022-06-24,Credit Card,16.29,Completed
+1391,65,2023-01-17,Credit Card,13.9,Completed
+1392,107,2022-01-02,Cash,3.94,Completed
+1393,147,2021-11-09,Credit Card,10.78,Completed
+1394,137,2022-06-22,PayPal,14.56,Completed
+1395,411,2021-02-23,PayPal,11.54,Completed
+1396,162,2022-06-25,Cash,9.05,Completed
+1397,428,2022-04-12,PayPal,13.19,Cancelled
+1398,452,2023-05-15,Credit Card,19.44,Completed
+1399,100,2021-06-13,Cash,3.71,Completed
+1400,338,2023-02-21,Credit Card,9.02,Completed
+1401,399,2021-11-30,Cash,9.32,Completed
+1402,307,2022-07-01,Cash,12.39,Completed
+1403,141,2023-03-09,Credit Card,4.74,Completed
+1404,83,2021-12-14,PayPal,5.18,Completed
+1405,177,2021-09-30,PayPal,7.14,Completed
+1406,198,2022-12-21,Cash,19.21,Completed
+1407,112,2023-01-20,Credit Card,15.21,Completed
+1408,56,2022-02-18,Credit Card,13.91,Completed
+1409,460,2022-05-15,Cash,16.71,Completed
+1410,179,2021-04-03,PayPal,4.3,Completed
+1411,421,2022-11-16,Credit Card,17.47,Completed
+1412,401,2021-03-20,PayPal,12.71,Completed
+1413,186,2022-09-14,PayPal,8.04,Completed
+1414,471,2021-08-05,Cash,16.69,Completed
+1415,218,2021-12-24,Cash,16.45,Completed
+1416,413,2022-09-10,PayPal,17.22,Completed
+1417,417,2022-05-22,Credit Card,4.08,Returned
+1418,316,2022-07-13,Credit Card,19.45,Completed
+1419,475,2021-06-30,Cash,19.27,Completed
+1420,217,2022-07-30,PayPal,8.43,Completed
+1421,120,2021-09-03,Credit Card,3.19,Completed
+1422,439,2021-09-01,Credit Card,5.01,Completed
+1423,394,2022-05-21,Cash,19.87,Completed
+1424,175,2022-02-26,PayPal,12.13,Completed
+1425,23,2021-11-16,Credit Card,8.42,Completed
+1426,213,2021-03-28,Cash,7.19,Completed
+1427,405,2021-08-05,Credit Card,6.63,Completed
+1428,235,2022-05-05,Credit Card,13.95,Completed
+1429,13,2022-06-03,Credit Card,9.55,Completed
+1430,101,2021-10-05,Cash,19.38,Completed
+1431,417,2023-04-29,PayPal,14.31,Completed
+1432,24,2022-12-23,Cash,16.26,Completed
+1433,364,2021-06-18,PayPal,7.27,Completed
+1434,11,2021-11-26,Credit Card,3.43,Completed
+1435,273,2022-10-12,PayPal,10.78,Completed
+1436,452,2022-03-17,Credit Card,7.66,Completed
+1437,431,2022-01-26,Credit Card,5.64,Returned
+1438,281,2022-05-11,Cash,19.15,Completed
+1439,94,2022-01-16,Credit Card,9.99,Completed
+1440,201,2021-11-02,Cash,5.14,Completed
+1441,21,2023-01-12,PayPal,5.58,Completed
+1442,340,2023-03-31,PayPal,7.05,Completed
+1443,467,2022-11-04,Credit Card,19.99,Returned
+1444,211,2022-05-28,Cash,6.82,Completed
+1445,140,2023-01-18,Credit Card,7.92,Returned
+1446,293,2021-07-07,Cash,13.87,Completed
+1447,298,2022-05-31,Cash,7.29,Completed
+1448,401,2022-10-06,Cash,5.88,Completed
+1449,101,2022-03-03,PayPal,4.86,Completed
+1450,304,2022-05-17,Cash,7.63,Completed
+1451,359,2022-12-31,PayPal,3.91,Completed
+1452,28,2021-09-17,Cash,2.34,Completed
+1453,41,2022-05-28,PayPal,16.48,Completed
+1454,355,2021-03-12,PayPal,4.48,Completed
+1455,303,2022-04-23,PayPal,15.97,Completed
+1456,496,2021-06-27,Credit Card,16.36,Returned
+1457,146,2022-04-02,Cash,11.68,Completed
+1458,256,2021-07-08,Credit Card,7.57,Completed
+1459,462,2021-10-18,Cash,4.61,Cancelled
+1460,227,2022-06-04,Cash,15.26,Completed
+1461,236,2023-02-04,Credit Card,12.82,Completed
+1462,361,2021-10-19,PayPal,13.8,Completed
+1463,380,2023-01-26,Cash,2.16,Completed
+1464,455,2022-09-27,PayPal,18.7,Completed
+1465,489,2023-03-22,Credit Card,3.19,Completed
+1466,13,2021-10-10,PayPal,8.6,Completed
+1467,210,2022-06-28,Cash,9.25,Completed
+1468,229,2023-04-26,Cash,2.02,Returned
+1469,397,2022-01-12,Cash,10.95,Completed
+1470,100,2022-10-20,Credit Card,15.55,Completed
+1471,31,2021-06-05,Cash,16.82,Completed
+1472,386,2022-05-23,Credit Card,17.83,Completed
+1473,16,2022-02-17,PayPal,10.78,Returned
+1474,137,2022-06-12,Cash,13.35,Completed
+1475,329,2021-12-21,Cash,3.43,Returned
+1476,166,2022-07-13,Cash,10.78,Completed
+1477,459,2023-02-02,PayPal,4.79,Completed
+1478,310,2021-07-06,Cash,8.65,Completed
+1479,440,2021-01-31,Credit Card,7.93,Returned
+1480,470,2021-09-17,PayPal,9.62,Completed
+1481,481,2022-02-25,PayPal,12.29,Completed
+1482,100,2022-06-13,PayPal,18.25,Completed
+1483,109,2022-07-05,PayPal,9.1,Completed
+1484,343,2021-10-31,PayPal,19.66,Returned
+1485,173,2021-02-08,Credit Card,15.66,Completed
+1486,237,2022-05-04,PayPal,11.21,Completed
+1487,162,2022-10-06,Cash,13.59,Completed
+1488,393,2022-06-26,PayPal,3.84,Completed
+1489,216,2022-11-01,PayPal,17.2,Completed
+1490,264,2021-10-05,PayPal,12.48,Completed
+1491,263,2021-07-22,PayPal,19.75,Completed
+1492,292,2021-03-07,PayPal,13.46,Completed
+1493,274,2021-04-18,Credit Card,17.01,Completed
+1494,3,2021-09-25,Credit Card,16.4,Completed
+1495,28,2021-08-10,PayPal,8.22,Completed
+1496,326,2023-03-15,Credit Card,6.67,Completed
+1497,492,2022-06-14,Cash,9.75,Completed
+1498,428,2021-03-31,PayPal,10.41,Completed
+1499,149,2022-11-24,Cash,6.32,Completed
+1500,28,2021-09-12,Cash,18.1,Completed
+1501,488,2022-03-31,PayPal,11.77,Completed
+1502,310,2021-09-10,Cash,19.61,Completed
+1503,438,2021-09-14,Cash,16.58,Completed
+1504,65,2022-01-18,Cash,12.0,Returned
+1505,356,2022-03-18,PayPal,19.05,Completed
+1506,21,2023-05-08,PayPal,11.09,Completed
+1507,252,2022-08-22,Cash,17.97,Completed
+1508,235,2021-03-31,PayPal,8.45,Completed
+1509,227,2023-01-19,PayPal,8.82,Completed
+1510,13,2022-01-25,Cash,9.53,Completed
+1511,313,2022-08-05,PayPal,11.84,Returned
+1512,49,2021-02-13,Credit Card,11.96,Returned
+1513,118,2022-12-13,PayPal,10.94,Completed
+1514,54,2022-10-26,Credit Card,7.51,Completed
+1515,138,2022-08-21,Cash,18.69,Completed
+1516,53,2021-01-19,PayPal,12.59,Completed
+1517,44,2021-04-11,Cash,9.34,Completed
+1518,303,2022-08-30,Cash,13.72,Completed
+1519,53,2023-02-05,Cash,15.82,Completed
+1520,74,2021-12-23,Cash,19.29,Completed
+1521,46,2022-06-26,Cash,10.99,Cancelled
+1522,13,2023-01-31,PayPal,4.02,Completed
+1523,165,2021-02-02,Credit Card,9.93,Completed
+1524,102,2021-08-17,PayPal,10.62,Completed
+1525,280,2022-06-08,PayPal,18.15,Completed
+1526,258,2022-09-22,PayPal,9.11,Completed
+1527,470,2023-05-12,PayPal,19.16,Completed
+1528,337,2021-06-04,Credit Card,10.73,Completed
+1529,356,2022-02-27,PayPal,19.53,Completed
+1530,398,2021-09-03,Cash,2.15,Returned
+1531,138,2022-02-09,PayPal,18.18,Returned
+1532,163,2023-04-24,PayPal,18.76,Completed
+1533,409,2023-01-29,Credit Card,19.3,Completed
+1534,387,2022-06-25,Credit Card,2.24,Completed
+1535,111,2021-06-10,Cash,5.09,Completed
+1536,102,2023-01-17,PayPal,13.77,Cancelled
+1537,17,2022-12-03,PayPal,2.46,Completed
+1538,268,2021-04-27,PayPal,3.14,Completed
+1539,182,2021-09-28,Cash,5.98,Returned
+1540,372,2023-02-09,Credit Card,11.22,Completed
+1541,24,2022-11-23,Cash,11.83,Cancelled
+1542,29,2022-05-02,PayPal,2.62,Completed
+1543,171,2023-06-04,Credit Card,5.07,Completed
+1544,409,2021-06-21,Credit Card,10.99,Completed
+1545,228,2021-10-01,Cash,12.69,Completed
+1546,378,2021-09-16,Credit Card,4.67,Completed
+1547,188,2021-05-15,Credit Card,9.18,Completed
+1548,346,2022-11-14,PayPal,18.28,Completed
+1549,230,2022-12-23,PayPal,19.98,Returned
+1550,321,2023-01-18,Credit Card,19.77,Completed
+1551,340,2022-02-26,Credit Card,17.87,Completed
+1552,119,2022-02-25,Cash,9.1,Completed
+1553,156,2021-07-05,Cash,14.36,Completed
+1554,272,2021-12-30,Credit Card,9.5,Completed
+1555,175,2022-08-30,PayPal,13.67,Completed
+1556,465,2022-01-13,Credit Card,7.57,Completed
+1557,104,2022-06-07,Credit Card,12.91,Completed
+1558,92,2022-08-03,PayPal,11.43,Completed
+1559,186,2023-06-10,PayPal,2.44,Completed
+1560,460,2022-12-23,Cash,16.23,Completed
+1561,283,2021-07-15,Cash,2.21,Returned
+1562,181,2023-05-31,Cash,7.28,Returned
+1563,170,2021-04-08,Cash,2.11,Completed
+1564,187,2022-08-28,PayPal,8.77,Completed
+1565,175,2021-01-22,Credit Card,3.14,Completed
+1566,222,2022-03-26,Cash,18.44,Completed
+1567,233,2021-06-21,Cash,9.48,Cancelled
+1568,162,2022-01-18,PayPal,10.27,Completed
+1569,421,2021-05-14,PayPal,8.3,Completed
+1570,134,2022-03-02,Credit Card,13.3,Cancelled
+1571,391,2021-01-25,Credit Card,16.12,Completed
+1572,480,2022-05-18,PayPal,13.67,Completed
+1573,224,2021-07-04,Cash,15.47,Completed
+1574,153,2021-03-26,Cash,18.31,Completed
+1575,33,2022-07-21,Cash,17.54,Completed
+1576,55,2023-02-02,Credit Card,14.13,Completed
+1577,442,2021-05-24,Cash,5.86,Completed
+1578,7,2023-05-13,Cash,13.48,Completed
+1579,244,2022-11-10,PayPal,11.11,Completed
+1580,313,2022-02-16,Cash,14.91,Completed
+1581,126,2021-08-12,PayPal,16.99,Completed
+1582,12,2021-08-08,Cash,15.37,Completed
+1583,16,2021-06-28,Credit Card,17.24,Completed
+1584,208,2022-09-23,Cash,3.15,Completed
+1585,43,2022-03-09,Cash,2.57,Completed
+1586,373,2021-09-22,PayPal,6.65,Completed
+1587,484,2022-03-05,PayPal,18.21,Completed
+1588,461,2022-10-24,PayPal,16.83,Completed
+1589,135,2022-02-20,Cash,14.29,Completed
+1590,228,2022-03-29,Cash,14.61,Completed
+1591,111,2022-12-28,Credit Card,15.08,Completed
+1592,307,2021-07-16,Cash,18.97,Completed
+1593,457,2022-07-08,Credit Card,16.98,Cancelled
+1594,160,2021-02-22,PayPal,13.22,Completed
+1595,331,2022-04-25,PayPal,13.98,Completed
+1596,264,2022-03-19,PayPal,5.85,Completed
+1597,225,2021-11-26,Credit Card,13.83,Completed
+1598,471,2021-09-08,Cash,9.64,Completed
+1599,217,2023-03-18,PayPal,4.75,Completed
+1600,456,2023-06-09,Cash,16.52,Completed
+1601,45,2023-02-22,Cash,11.18,Completed
+1602,214,2021-05-03,PayPal,19.59,Returned
+1603,59,2023-05-29,Credit Card,7.07,Completed
+1604,132,2022-01-22,Cash,10.65,Completed
+1605,104,2021-12-05,PayPal,10.06,Returned
+1606,195,2023-02-17,Cash,4.17,Completed
+1607,413,2021-12-14,Cash,9.67,Returned
+1608,489,2021-01-29,Cash,7.18,Completed
+1609,157,2021-02-04,Cash,4.89,Completed
+1610,98,2022-06-02,Cash,7.08,Completed
+1611,226,2022-01-31,Credit Card,6.2,Completed
+1612,412,2022-09-15,Credit Card,15.21,Cancelled
+1613,205,2021-10-21,PayPal,2.55,Completed
+1614,79,2022-08-12,Credit Card,13.11,Completed
+1615,124,2021-12-15,Credit Card,15.69,Returned
+1616,471,2021-05-27,Credit Card,10.65,Completed
+1617,428,2021-03-08,Cash,18.77,Returned
+1618,218,2022-06-04,Cash,14.74,Completed
+1619,4,2021-05-02,PayPal,15.46,Completed
+1620,90,2021-12-06,PayPal,5.54,Completed
+1621,104,2021-06-24,PayPal,15.99,Completed
+1622,393,2023-06-19,Cash,16.98,Completed
+1623,119,2022-11-22,Credit Card,8.5,Returned
+1624,133,2022-08-20,Credit Card,5.84,Returned
+1625,312,2022-03-27,Cash,8.93,Completed
+1626,96,2022-07-11,PayPal,15.31,Completed
+1627,468,2021-05-16,PayPal,9.52,Returned
+1628,434,2023-05-05,PayPal,15.26,Completed
+1629,331,2021-01-16,Cash,4.04,Completed
+1630,143,2021-11-29,PayPal,16.51,Completed
+1631,288,2021-07-14,PayPal,6.56,Returned
+1632,28,2022-05-11,Cash,6.48,Completed
+1633,278,2021-01-09,Credit Card,12.63,Completed
+1634,233,2023-04-08,Cash,3.26,Completed
+1635,17,2021-11-30,Cash,2.47,Completed
+1636,59,2021-11-29,Cash,6.7,Returned
+1637,90,2021-11-23,Cash,11.69,Cancelled
+1638,492,2021-01-15,Credit Card,18.34,Completed
+1639,199,2023-04-19,PayPal,17.24,Completed
+1640,362,2022-09-06,Cash,10.83,Cancelled
+1641,441,2021-08-14,Credit Card,2.67,Completed
+1642,26,2022-03-01,PayPal,11.63,Completed
+1643,25,2023-03-01,PayPal,14.69,Returned
+1644,394,2022-02-12,PayPal,8.1,Completed
+1645,301,2021-04-23,Cash,4.0,Completed
+1646,339,2022-03-04,Cash,7.01,Completed
+1647,267,2021-01-01,PayPal,15.89,Completed
+1648,461,2021-09-23,PayPal,8.32,Completed
+1649,181,2022-05-06,PayPal,16.62,Completed
+1650,456,2021-07-27,PayPal,7.75,Cancelled
+1651,360,2022-09-14,PayPal,4.94,Completed
+1652,68,2022-12-13,PayPal,9.85,Completed
+1653,495,2022-01-04,Credit Card,10.14,Completed
+1654,351,2021-11-02,PayPal,2.29,Completed
+1655,412,2021-01-12,Cash,4.11,Completed
+1656,459,2021-12-11,Cash,5.33,Completed
+1657,491,2022-04-10,Cash,4.04,Completed
+1658,321,2022-12-01,PayPal,8.15,Completed
+1659,49,2022-10-28,Cash,19.36,Completed
+1660,175,2022-05-09,Credit Card,11.17,Completed
+1661,52,2022-01-03,PayPal,13.3,Completed
+1662,102,2023-04-26,Cash,8.41,Completed
+1663,216,2022-02-24,Credit Card,7.82,Completed
+1664,438,2023-06-08,Credit Card,2.42,Completed
+1665,188,2023-03-02,Cash,11.01,Completed
+1666,57,2021-06-20,Credit Card,10.7,Completed
+1667,47,2021-05-14,Cash,4.84,Cancelled
+1668,159,2022-03-03,Credit Card,15.76,Completed
+1669,489,2021-01-25,PayPal,10.87,Completed
+1670,174,2022-06-14,PayPal,8.1,Completed
+1671,242,2021-07-09,PayPal,4.64,Completed
+1672,282,2021-05-21,PayPal,11.94,Returned
+1673,241,2022-07-09,PayPal,15.55,Completed
+1674,370,2023-04-26,Cash,7.08,Completed
+1675,5,2023-03-07,PayPal,5.94,Completed
+1676,84,2022-10-20,PayPal,11.39,Completed
+1677,308,2021-11-11,PayPal,4.8,Completed
+1678,361,2022-03-20,PayPal,14.0,Cancelled
+1679,459,2021-11-15,Credit Card,12.9,Completed
+1680,248,2022-03-17,PayPal,3.57,Completed
+1681,54,2021-04-02,PayPal,2.66,Completed
+1682,161,2021-06-28,Cash,13.17,Completed
+1683,434,2021-02-25,Credit Card,7.3,Completed
+1684,422,2021-06-04,Cash,3.56,Completed
+1685,411,2022-11-03,PayPal,15.67,Completed
+1686,226,2021-04-21,Cash,7.65,Completed
+1687,15,2021-05-17,Cash,10.27,Completed
+1688,224,2021-08-20,PayPal,6.26,Completed
+1689,61,2022-04-13,Credit Card,13.29,Completed
+1690,122,2023-01-02,Credit Card,7.43,Completed
+1691,277,2022-04-26,Cash,19.42,Returned
+1692,46,2021-03-09,PayPal,14.65,Completed
+1693,453,2023-03-25,Cash,4.46,Completed
+1694,390,2021-09-06,Cash,9.5,Completed
+1695,294,2021-11-19,Cash,8.94,Completed
+1696,62,2022-06-02,PayPal,11.62,Completed
+1697,86,2023-03-03,PayPal,17.15,Returned
+1698,446,2022-03-08,Credit Card,12.5,Completed
+1699,210,2022-05-02,PayPal,3.11,Completed
+1700,78,2022-08-29,Cash,13.8,Completed
+1701,202,2022-03-05,Cash,2.15,Cancelled
+1702,302,2021-09-26,Credit Card,16.04,Completed
+1703,397,2022-12-10,PayPal,14.0,Completed
+1704,223,2022-06-21,Cash,7.56,Returned
+1705,222,2021-05-28,Credit Card,7.26,Completed
+1706,3,2021-04-28,Credit Card,16.37,Completed
+1707,478,2023-04-30,Cash,16.1,Completed
+1708,6,2022-01-02,Cash,8.34,Completed
+1709,93,2023-04-30,PayPal,7.38,Completed
+1710,8,2021-03-07,Credit Card,12.08,Completed
+1711,428,2023-03-24,Cash,2.15,Completed
+1712,493,2022-01-05,Credit Card,3.49,Completed
+1713,235,2021-06-24,PayPal,4.27,Completed
+1714,108,2023-04-11,Cash,5.34,Completed
+1715,161,2022-08-11,PayPal,11.22,Completed
+1716,209,2022-05-10,Credit Card,19.86,Cancelled
+1717,240,2021-04-24,PayPal,13.75,Returned
+1718,331,2021-04-21,PayPal,3.1,Returned
+1719,333,2023-01-31,Credit Card,11.46,Completed
+1720,50,2022-03-15,PayPal,10.94,Completed
+1721,11,2022-12-16,Credit Card,4.6,Cancelled
+1722,351,2021-05-27,Cash,18.56,Returned
+1723,156,2021-02-04,Credit Card,9.93,Completed
+1724,492,2021-11-05,Credit Card,19.9,Completed
+1725,70,2022-06-22,Cash,9.56,Completed
+1726,169,2023-01-20,Credit Card,12.94,Completed
+1727,272,2021-01-14,Cash,3.89,Completed
+1728,68,2022-01-09,Cash,10.18,Completed
+1729,355,2022-07-11,Credit Card,6.3,Completed
+1730,252,2022-03-04,PayPal,17.04,Completed
+1731,48,2022-12-29,PayPal,16.11,Completed
+1732,184,2021-08-21,Cash,16.84,Completed
+1733,320,2022-12-06,PayPal,15.02,Cancelled
+1734,187,2022-07-17,PayPal,16.99,Completed
+1735,90,2023-06-06,Credit Card,5.61,Completed
+1736,446,2022-12-27,Cash,10.14,Completed
+1737,332,2022-10-25,Cash,14.45,Completed
+1738,139,2022-03-16,Credit Card,13.47,Completed
+1739,357,2022-05-17,PayPal,14.89,Completed
+1740,89,2021-10-02,Cash,6.04,Completed
+1741,274,2023-04-30,PayPal,3.77,Completed
+1742,19,2021-03-17,Cash,18.5,Completed
+1743,471,2022-03-15,Cash,12.08,Completed
+1744,311,2023-01-02,Cash,4.77,Completed
+1745,358,2023-05-10,Cash,16.28,Returned
+1746,374,2022-11-30,PayPal,18.47,Completed
+1747,466,2021-10-16,PayPal,5.05,Completed
+1748,154,2022-06-24,PayPal,16.71,Completed
+1749,390,2023-06-10,PayPal,18.8,Completed
+1750,260,2022-11-23,Credit Card,18.89,Completed
+1751,108,2021-09-10,Cash,18.45,Completed
+1752,371,2021-05-06,Cash,11.84,Completed
+1753,285,2021-06-26,Cash,8.41,Completed
+1754,59,2021-02-06,Credit Card,2.13,Cancelled
+1755,125,2022-02-14,PayPal,3.1,Cancelled
+1756,354,2022-09-03,Cash,9.72,Completed
+1757,273,2022-09-02,PayPal,9.19,Completed
+1758,107,2021-05-07,PayPal,5.32,Completed
+1759,299,2022-04-28,Credit Card,9.12,Completed
+1760,245,2021-06-17,Credit Card,5.14,Completed
+1761,336,2022-08-15,PayPal,17.28,Completed
+1762,450,2021-10-21,Cash,7.37,Completed
+1763,418,2023-04-25,Cash,12.77,Completed
+1764,247,2022-09-30,Credit Card,11.05,Completed
+1765,8,2021-12-09,Credit Card,2.93,Completed
+1766,141,2021-11-06,Credit Card,18.96,Completed
+1767,362,2022-10-24,Credit Card,11.49,Completed
+1768,8,2022-06-12,Credit Card,7.85,Completed
+1769,478,2022-06-24,Credit Card,4.85,Completed
+1770,352,2022-02-23,Credit Card,8.09,Completed
+1771,484,2022-03-20,Cash,2.37,Completed
+1772,495,2022-11-16,Credit Card,8.54,Completed
+1773,94,2022-07-12,Credit Card,11.57,Cancelled
+1774,321,2023-04-20,Cash,17.69,Cancelled
+1775,427,2021-08-24,Cash,14.37,Completed
+1776,39,2022-03-15,PayPal,4.01,Completed
+1777,81,2021-08-02,Credit Card,4.66,Completed
+1778,187,2021-03-26,Credit Card,9.71,Completed
+1779,84,2023-03-05,Credit Card,5.52,Returned
+1780,88,2023-01-14,Credit Card,2.5,Completed
+1781,242,2021-03-26,PayPal,16.49,Returned
+1782,342,2022-05-04,Cash,2.35,Completed
+1783,93,2021-03-06,Cash,16.95,Completed
+1784,86,2022-10-08,Credit Card,4.59,Completed
+1785,44,2022-10-25,Credit Card,19.54,Completed
+1786,137,2022-09-19,Credit Card,12.87,Completed
+1787,421,2021-03-05,PayPal,15.23,Completed
+1788,74,2021-12-09,PayPal,3.99,Completed
+1789,36,2023-05-25,Cash,17.52,Completed
+1790,101,2021-12-18,Credit Card,17.11,Completed
+1791,476,2021-06-07,Credit Card,13.75,Completed
+1792,156,2022-08-12,Credit Card,11.04,Completed
+1793,426,2022-05-06,Credit Card,14.99,Completed
+1794,255,2022-10-20,PayPal,2.11,Completed
+1795,171,2023-05-05,Cash,12.66,Completed
+1796,469,2022-04-08,Cash,17.25,Returned
+1797,216,2021-08-13,PayPal,8.42,Completed
+1798,170,2021-11-09,Credit Card,3.95,Completed
+1799,252,2022-09-07,Cash,9.58,Completed
+1800,360,2023-05-09,Cash,15.09,Completed
+1801,322,2023-03-24,PayPal,3.93,Completed
+1802,55,2022-04-11,Credit Card,5.71,Completed
+1803,456,2021-03-29,Cash,4.66,Completed
+1804,432,2023-06-02,Credit Card,16.35,Completed
+1805,91,2021-10-30,Cash,3.13,Completed
+1806,278,2022-11-11,PayPal,14.36,Completed
+1807,101,2022-03-11,Credit Card,8.6,Returned
+1808,155,2022-11-13,PayPal,15.6,Returned
+1809,377,2021-05-15,Cash,19.36,Completed
+1810,349,2021-02-19,PayPal,4.06,Completed
+1811,451,2022-03-08,PayPal,7.66,Completed
+1812,364,2021-12-06,PayPal,16.58,Completed
+1813,141,2021-12-13,Cash,6.79,Completed
+1814,173,2022-10-08,Credit Card,5.87,Completed
+1815,10,2021-12-13,PayPal,16.86,Completed
+1816,228,2022-10-11,Credit Card,19.77,Completed
+1817,265,2021-09-02,Cash,12.02,Completed
+1818,438,2021-04-19,Credit Card,7.0,Completed
+1819,248,2023-04-05,PayPal,9.17,Completed
+1820,247,2023-03-10,PayPal,5.06,Completed
+1821,155,2022-06-17,PayPal,15.71,Completed
+1822,34,2021-03-31,PayPal,15.92,Completed
+1823,499,2021-10-23,PayPal,17.75,Completed
+1824,129,2021-04-22,PayPal,2.48,Completed
+1825,160,2023-03-24,Cash,12.12,Completed
+1826,89,2022-08-12,Cash,5.86,Completed
+1827,93,2021-06-26,Cash,8.14,Completed
+1828,327,2021-12-09,Credit Card,16.13,Completed
+1829,241,2022-10-22,Credit Card,5.46,Completed
+1830,323,2021-04-11,Cash,13.49,Completed
+1831,468,2023-01-28,Credit Card,13.78,Completed
+1832,404,2022-09-21,Credit Card,19.17,Returned
+1833,117,2022-08-27,PayPal,15.95,Completed
+1834,94,2022-02-05,PayPal,16.47,Completed
+1835,163,2021-01-28,Credit Card,11.57,Completed
+1836,99,2022-06-21,Credit Card,5.36,Completed
+1837,113,2021-02-27,Cash,9.66,Completed
+1838,359,2022-05-13,Credit Card,11.89,Completed
+1839,91,2021-10-24,PayPal,14.21,Completed
+1840,346,2021-05-14,Credit Card,12.94,Returned
+1841,206,2021-11-27,Cash,9.09,Completed
+1842,17,2021-09-06,PayPal,6.78,Completed
+1843,274,2022-07-04,PayPal,5.03,Completed
+1844,173,2021-03-16,PayPal,14.49,Completed
+1845,116,2022-10-16,PayPal,13.62,Completed
+1846,349,2023-04-14,Credit Card,14.37,Completed
+1847,468,2021-06-17,Cash,8.71,Completed
+1848,181,2023-02-10,Credit Card,6.72,Completed
+1849,91,2022-05-18,Credit Card,15.67,Completed
+1850,82,2023-06-04,PayPal,15.93,Completed
+1851,324,2021-12-21,Cash,10.2,Completed
+1852,449,2021-08-13,PayPal,13.01,Completed
+1853,114,2022-10-26,Credit Card,8.72,Completed
+1854,257,2022-06-15,Credit Card,14.64,Cancelled
+1855,58,2021-05-26,PayPal,17.04,Completed
+1856,154,2021-08-29,Credit Card,14.39,Completed
+1857,365,2023-06-03,Credit Card,11.23,Completed
+1858,404,2023-06-12,PayPal,10.26,Completed
+1859,116,2021-12-10,Credit Card,13.56,Completed
+1860,343,2023-01-19,Cash,14.24,Completed
+1861,266,2021-02-04,PayPal,12.06,Completed
+1862,315,2022-12-03,Cash,13.25,Completed
+1863,203,2021-01-01,Credit Card,3.74,Completed
+1864,41,2021-06-02,Credit Card,19.13,Cancelled
+1865,105,2022-03-05,PayPal,16.23,Cancelled
+1866,389,2022-05-23,Credit Card,8.73,Completed
+1867,378,2021-05-06,PayPal,12.13,Completed
+1868,193,2022-05-06,PayPal,2.85,Completed
+1869,401,2022-04-27,PayPal,2.74,Returned
+1870,278,2021-12-11,PayPal,6.51,Completed
+1871,354,2023-01-08,PayPal,14.41,Completed
+1872,237,2021-08-09,Cash,17.34,Completed
+1873,425,2022-12-24,PayPal,12.07,Completed
+1874,221,2021-01-25,Cash,11.58,Completed
+1875,68,2022-06-12,Credit Card,9.24,Returned
+1876,197,2021-07-01,PayPal,4.91,Completed
+1877,256,2022-05-14,Credit Card,4.13,Completed
+1878,139,2023-04-21,PayPal,15.69,Completed
+1879,312,2022-10-03,Cash,18.7,Returned
+1880,435,2021-02-11,Cash,10.25,Completed
+1881,149,2022-04-26,Cash,13.87,Completed
+1882,99,2023-04-28,Credit Card,18.46,Returned
+1883,76,2023-01-18,PayPal,3.62,Completed
+1884,282,2023-05-22,Credit Card,15.87,Completed
+1885,371,2022-03-15,Cash,13.1,Completed
+1886,403,2022-02-06,Credit Card,12.78,Returned
+1887,109,2022-06-30,Cash,7.27,Returned
+1888,188,2021-12-11,Cash,14.31,Completed
+1889,199,2023-06-12,Cash,16.31,Completed
+1890,303,2021-02-14,PayPal,4.03,Completed
+1891,327,2022-10-08,PayPal,11.6,Completed
+1892,154,2021-01-21,Cash,3.82,Completed
+1893,40,2022-09-26,Credit Card,17.71,Completed
+1894,133,2021-03-11,Credit Card,11.14,Completed
+1895,405,2023-05-14,PayPal,16.54,Completed
+1896,462,2023-05-23,Cash,8.63,Completed
+1897,132,2021-02-17,Credit Card,4.25,Completed
+1898,279,2022-05-06,Cash,2.75,Completed
+1899,362,2022-07-05,Credit Card,7.07,Cancelled
+1900,84,2021-10-14,PayPal,6.4,Completed
+1901,399,2021-01-10,Cash,12.09,Cancelled
+1902,242,2022-06-26,Cash,2.39,Completed
+1903,116,2023-01-26,Credit Card,11.37,Completed
+1904,109,2021-10-01,Credit Card,9.05,Completed
+1905,221,2022-08-23,Credit Card,12.39,Completed
+1906,392,2023-01-26,Cash,14.64,Completed
+1907,41,2022-01-16,PayPal,13.41,Completed
+1908,368,2021-11-25,PayPal,19.72,Completed
+1909,147,2022-04-24,Credit Card,4.49,Completed
+1910,112,2021-01-15,PayPal,9.74,Completed
+1911,103,2022-05-31,Credit Card,9.65,Completed
+1912,46,2021-07-10,PayPal,9.51,Completed
+1913,412,2021-06-17,Cash,13.95,Completed
+1914,494,2022-06-05,Credit Card,10.82,Completed
+1915,475,2022-09-13,PayPal,11.31,Cancelled
+1916,324,2021-05-17,Cash,9.78,Completed
+1917,378,2021-06-03,PayPal,19.85,Completed
+1918,271,2022-01-23,Cash,18.7,Completed
+1919,483,2021-07-28,Cash,7.54,Completed
+1920,421,2021-09-29,PayPal,4.01,Completed
+1921,385,2021-05-23,PayPal,17.12,Returned
+1922,195,2022-09-03,Cash,19.95,Completed
+1923,367,2023-06-08,Cash,7.27,Completed
+1924,280,2023-03-31,Cash,8.44,Completed
+1925,283,2021-03-10,Credit Card,18.95,Completed
+1926,40,2021-09-04,Cash,14.8,Completed
+1927,447,2021-09-18,Credit Card,7.32,Completed
+1928,189,2023-02-27,Cash,12.46,Completed
+1929,164,2021-03-20,Credit Card,19.0,Completed
+1930,482,2022-10-20,Cash,16.61,Completed
+1931,477,2022-09-15,Cash,15.35,Completed
+1932,24,2023-02-09,Cash,15.27,Completed
+1933,24,2022-08-28,PayPal,5.2,Completed
+1934,490,2022-06-09,PayPal,16.84,Completed
+1935,4,2023-02-11,Cash,6.97,Completed
+1936,323,2022-09-13,Credit Card,18.75,Completed
+1937,290,2021-11-26,Credit Card,8.56,Completed
+1938,441,2021-07-08,Cash,17.44,Cancelled
+1939,433,2021-04-05,PayPal,6.79,Completed
+1940,471,2022-09-09,Credit Card,11.26,Completed
+1941,181,2021-01-08,PayPal,3.92,Completed
+1942,248,2021-03-08,Credit Card,13.88,Completed
+1943,116,2022-05-11,Cash,17.05,Returned
+1944,279,2021-07-10,PayPal,14.93,Completed
+1945,365,2022-01-01,Credit Card,11.42,Completed
+1946,69,2023-02-07,Cash,2.81,Completed
+1947,351,2022-06-05,Cash,18.8,Completed
+1948,254,2021-04-27,Cash,14.7,Completed
+1949,181,2021-09-24,PayPal,15.43,Completed
+1950,318,2022-09-03,PayPal,16.3,Completed
+1951,169,2022-04-30,Cash,15.46,Completed
+1952,313,2022-05-24,PayPal,9.94,Completed
+1953,249,2021-10-25,Credit Card,15.21,Completed
+1954,188,2021-06-13,Cash,13.25,Completed
+1955,54,2022-01-11,Cash,17.37,Completed
+1956,326,2022-10-15,PayPal,16.44,Completed
+1957,357,2021-09-25,Cash,2.74,Completed
+1958,313,2022-07-03,Credit Card,8.82,Completed
+1959,138,2021-03-15,PayPal,2.62,Completed
+1960,168,2022-05-23,PayPal,3.84,Completed
+1961,391,2021-03-14,Cash,12.83,Completed
+1962,103,2021-11-04,Cash,17.73,Completed
+1963,422,2021-07-18,Cash,4.16,Returned
+1964,85,2021-05-10,PayPal,10.12,Completed
+1965,317,2023-01-28,Cash,18.4,Completed
+1966,212,2023-04-04,Credit Card,16.66,Returned
+1967,3,2022-07-26,Cash,11.35,Completed
+1968,384,2023-03-02,Cash,15.89,Completed
+1969,179,2022-09-07,PayPal,11.41,Completed
+1970,342,2023-03-19,Cash,4.85,Completed
+1971,303,2023-04-12,PayPal,4.25,Completed
+1972,452,2022-05-02,Cash,5.39,Completed
+1973,476,2023-05-03,Credit Card,8.32,Completed
+1974,332,2021-05-31,Credit Card,18.75,Completed
+1975,38,2022-10-31,PayPal,16.39,Completed
+1976,499,2021-07-25,PayPal,9.79,Completed
+1977,420,2021-06-28,Cash,10.88,Cancelled
+1978,239,2021-07-16,Cash,6.78,Cancelled
+1979,169,2023-01-05,Credit Card,14.68,Completed
+1980,453,2021-03-30,Cash,16.45,Returned
+1981,397,2023-03-10,Credit Card,6.3,Completed
+1982,343,2022-03-10,PayPal,2.75,Returned
+1983,314,2023-02-27,Cash,13.23,Completed
+1984,306,2023-01-18,PayPal,12.13,Completed
+1985,30,2021-07-02,Cash,9.24,Completed
+1986,190,2021-07-28,Credit Card,13.59,Completed
+1987,357,2022-05-08,PayPal,11.91,Completed
+1988,25,2021-05-10,PayPal,6.51,Returned
+1989,112,2022-10-27,Cash,9.16,Completed
+1990,411,2021-01-13,PayPal,9.71,Completed
+1991,435,2022-09-26,Credit Card,17.84,Completed
+1992,206,2023-05-21,PayPal,19.3,Completed
+1993,185,2023-01-02,PayPal,18.07,Completed
+1994,382,2021-04-16,Cash,14.95,Completed
+1995,496,2022-01-10,PayPal,12.53,Completed
+1996,379,2022-08-05,Cash,14.41,Completed
+1997,47,2022-12-08,Cash,18.9,Completed
+1998,374,2022-11-29,PayPal,6.5,Completed
+1999,228,2021-04-09,Credit Card,11.63,Completed
+2000,39,2022-08-17,Cash,14.41,Completed
+2001,16,2022-08-10,PayPal,14.23,Completed
+2002,22,2023-06-05,Cash,6.54,Returned
+2003,213,2023-05-02,Credit Card,12.56,Completed
+2004,310,2021-07-11,Credit Card,16.33,Completed
+2005,149,2021-11-21,Cash,10.55,Completed
+2006,456,2022-12-27,Credit Card,16.28,Completed
+2007,241,2023-04-07,PayPal,8.48,Completed
+2008,272,2022-04-12,PayPal,18.9,Completed
+2009,59,2023-06-13,Cash,11.61,Completed
+2010,287,2022-01-02,Credit Card,12.73,Completed
+2011,426,2021-11-14,PayPal,2.56,Completed
+2012,202,2021-05-24,PayPal,5.06,Completed
+2013,32,2022-01-19,PayPal,13.39,Completed
+2014,443,2021-08-04,Cash,9.56,Completed
+2015,162,2021-12-27,Cash,11.15,Cancelled
+2016,255,2021-11-20,PayPal,3.13,Completed
+2017,254,2021-01-15,PayPal,17.01,Completed
+2018,9,2021-08-05,Credit Card,16.12,Completed
+2019,465,2022-05-07,Credit Card,5.34,Completed
+2020,139,2022-07-01,Credit Card,13.42,Returned
+2021,480,2021-07-02,Cash,16.73,Completed
+2022,10,2021-09-27,PayPal,13.54,Completed
+2023,214,2022-04-12,Cash,7.59,Completed
+2024,273,2023-05-20,PayPal,13.81,Completed
+2025,324,2022-09-04,Credit Card,5.79,Completed
+2026,48,2022-06-03,Credit Card,7.73,Completed
+2027,436,2022-06-26,Credit Card,6.32,Completed
+2028,111,2022-04-12,Credit Card,12.02,Completed
+2029,153,2021-11-01,PayPal,3.95,Completed
+2030,123,2021-05-24,Credit Card,18.8,Returned
+2031,405,2021-04-21,PayPal,8.0,Completed
+2032,357,2021-08-20,PayPal,5.94,Completed
+2033,102,2022-11-22,Cash,10.94,Completed
+2034,241,2022-08-07,Credit Card,6.99,Completed
+2035,321,2022-12-23,Credit Card,11.63,Completed
+2036,191,2023-01-02,Cash,8.27,Completed
+2037,217,2022-08-15,PayPal,4.38,Completed
+2038,51,2022-05-15,Credit Card,6.79,Completed
+2039,292,2022-08-18,PayPal,9.89,Completed
+2040,81,2022-07-08,Cash,2.55,Completed
+2041,489,2021-09-30,PayPal,15.87,Completed
+2042,383,2022-12-04,Credit Card,13.19,Completed
+2043,88,2021-06-22,PayPal,12.82,Completed
+2044,194,2021-01-07,PayPal,11.83,Completed
+2045,104,2021-06-04,Credit Card,12.63,Completed
+2046,271,2022-06-06,Credit Card,18.82,Completed
+2047,96,2022-06-30,PayPal,2.15,Completed
+2048,423,2022-07-02,PayPal,2.86,Completed
+2049,379,2022-06-02,Cash,5.45,Completed
+2050,198,2021-08-03,Credit Card,5.01,Completed
+2051,1,2021-05-14,PayPal,5.26,Completed
+2052,495,2021-10-12,Credit Card,14.09,Completed
+2053,407,2021-05-06,Cash,10.27,Completed
+2054,378,2022-03-15,PayPal,19.85,Returned
+2055,167,2023-04-29,PayPal,6.08,Completed
+2056,126,2022-11-17,PayPal,7.59,Completed
+2057,313,2021-06-01,Credit Card,19.72,Completed
+2058,81,2021-11-27,Cash,16.97,Returned
+2059,418,2022-06-22,Credit Card,10.46,Completed
+2060,251,2022-01-18,PayPal,11.98,Completed
+2061,169,2021-04-25,Cash,17.18,Completed
+2062,477,2023-06-13,PayPal,10.66,Cancelled
+2063,73,2022-04-27,PayPal,5.71,Returned
+2064,141,2021-10-11,Credit Card,16.91,Returned
+2065,70,2023-06-18,PayPal,11.68,Completed
+2066,262,2021-03-16,Cash,4.75,Completed
+2067,340,2021-06-15,PayPal,11.1,Returned
+2068,308,2021-07-08,PayPal,9.44,Cancelled
+2069,245,2021-03-19,Credit Card,17.78,Completed
+2070,3,2022-08-25,Cash,4.27,Completed
+2071,337,2022-11-19,Credit Card,17.75,Completed
+2072,63,2021-01-21,PayPal,11.22,Cancelled
+2073,49,2022-07-20,Credit Card,9.28,Returned
+2074,76,2021-07-03,Credit Card,4.92,Returned
+2075,368,2023-05-21,Credit Card,14.61,Returned
+2076,175,2021-08-10,Credit Card,18.68,Returned
+2077,109,2023-04-07,PayPal,8.76,Completed
+2078,183,2021-11-24,PayPal,6.35,Completed
+2079,192,2021-06-28,Cash,11.99,Completed
+2080,65,2023-02-27,Credit Card,16.33,Completed
+2081,337,2021-04-22,Credit Card,2.07,Completed
+2082,451,2023-01-06,Cash,13.36,Returned
+2083,474,2022-12-27,Credit Card,12.74,Completed
+2084,271,2021-02-28,Cash,7.73,Completed
+2085,100,2021-11-23,PayPal,10.13,Completed
+2086,32,2022-09-13,Cash,6.45,Completed
+2087,352,2023-06-16,Credit Card,16.22,Completed
+2088,128,2022-10-31,Cash,13.42,Completed
+2089,452,2021-07-10,PayPal,11.59,Completed
+2090,402,2021-07-19,Credit Card,9.07,Completed
+2091,369,2021-11-08,PayPal,7.24,Completed
+2092,339,2022-12-09,PayPal,16.81,Completed
+2093,43,2021-02-04,Cash,10.13,Completed
+2094,372,2022-01-14,PayPal,11.03,Completed
+2095,419,2022-01-22,Credit Card,11.37,Completed
+2096,488,2023-01-28,PayPal,10.07,Completed
+2097,78,2021-08-25,PayPal,6.61,Returned
+2098,314,2022-09-08,Cash,4.17,Completed
+2099,289,2022-06-03,PayPal,3.77,Completed
+2100,270,2021-10-10,Cash,15.63,Completed
+2101,162,2021-01-01,Cash,6.02,Completed
+2102,189,2023-01-01,Credit Card,3.0,Completed
+2103,247,2022-04-09,Credit Card,16.36,Completed
+2104,388,2021-08-18,Credit Card,4.77,Completed
+2105,216,2021-06-21,Credit Card,13.25,Completed
+2106,315,2021-03-28,Cash,8.1,Completed
+2107,413,2022-07-07,PayPal,4.28,Completed
+2108,339,2021-05-03,Credit Card,9.46,Completed
+2109,390,2023-04-23,Credit Card,2.27,Returned
+2110,377,2021-10-25,Credit Card,17.14,Completed
+2111,481,2023-06-04,PayPal,11.24,Completed
+2112,433,2022-11-21,Credit Card,4.5,Completed
+2113,168,2022-07-29,PayPal,6.27,Returned
+2114,339,2022-04-29,Cash,10.06,Completed
+2115,193,2021-06-14,Cash,5.4,Completed
+2116,453,2022-11-30,Cash,6.83,Completed
+2117,283,2022-01-18,PayPal,11.62,Completed
+2118,336,2021-07-28,Credit Card,16.99,Completed
+2119,390,2023-01-09,Credit Card,9.23,Completed
+2120,488,2022-03-08,Credit Card,14.91,Completed
+2121,13,2022-01-24,Credit Card,17.78,Completed
+2122,240,2022-07-14,Credit Card,5.89,Completed
+2123,320,2021-08-12,PayPal,16.53,Completed
+2124,446,2021-01-03,Cash,15.63,Completed
+2125,483,2022-01-07,Credit Card,8.42,Completed
+2126,147,2022-11-18,Cash,19.81,Cancelled
+2127,204,2022-03-22,PayPal,6.73,Completed
+2128,80,2022-09-03,PayPal,6.59,Cancelled
+2129,379,2021-04-26,Credit Card,15.9,Completed
+2130,43,2021-09-27,PayPal,9.82,Completed
+2131,458,2022-03-23,Cash,7.95,Completed
+2132,89,2022-01-03,Credit Card,5.22,Completed
+2133,148,2021-09-10,Credit Card,15.78,Completed
+2134,95,2021-11-13,Cash,16.15,Completed
+2135,452,2022-02-19,Credit Card,12.2,Completed
+2136,428,2021-04-05,Credit Card,19.23,Completed
+2137,151,2023-02-24,Cash,7.73,Completed
+2138,2,2023-06-11,Credit Card,5.95,Completed
+2139,376,2021-01-24,Credit Card,14.19,Completed
+2140,22,2022-09-20,Cash,15.65,Completed
+2141,371,2022-10-25,PayPal,6.05,Cancelled
+2142,313,2023-04-30,Cash,3.38,Completed
+2143,485,2021-02-19,Credit Card,16.59,Completed
+2144,328,2022-05-17,Cash,19.58,Returned
+2145,7,2022-12-19,Credit Card,13.6,Completed
+2146,206,2022-05-13,Credit Card,7.0,Completed
+2147,440,2021-12-01,Cash,19.94,Returned
+2148,375,2021-03-20,Credit Card,18.08,Completed
+2149,451,2022-08-05,PayPal,11.24,Completed
+2150,114,2021-01-27,Credit Card,16.86,Completed
+2151,272,2021-09-28,Cash,16.68,Completed
+2152,83,2022-07-16,PayPal,18.83,Cancelled
+2153,179,2023-03-15,PayPal,17.14,Completed
+2154,210,2021-09-04,Credit Card,13.59,Completed
+2155,500,2023-02-15,Cash,12.97,Completed
+2156,464,2022-08-14,Credit Card,10.41,Completed
+2157,328,2022-01-22,Credit Card,13.28,Completed
+2158,124,2022-12-03,Cash,16.31,Returned
+2159,481,2022-07-13,Cash,19.44,Completed
+2160,113,2021-12-27,Credit Card,10.41,Completed
+2161,12,2023-05-16,PayPal,12.33,Returned
+2162,126,2022-05-03,Credit Card,10.01,Completed
+2163,53,2021-12-18,PayPal,14.03,Cancelled
+2164,331,2022-12-02,Credit Card,13.34,Completed
+2165,389,2021-09-13,Cash,2.32,Completed
+2166,283,2021-08-10,PayPal,11.74,Completed
+2167,140,2023-06-03,Cash,3.59,Cancelled
+2168,401,2023-01-23,Cash,2.47,Completed
+2169,390,2023-02-20,Cash,16.24,Completed
+2170,97,2021-01-01,Cash,6.66,Completed
+2171,5,2022-06-30,Cash,8.13,Completed
+2172,57,2022-03-22,Credit Card,3.15,Completed
+2173,412,2021-03-20,PayPal,5.23,Cancelled
+2174,334,2021-08-24,Credit Card,15.78,Returned
+2175,69,2021-11-30,Credit Card,10.88,Completed
+2176,118,2023-06-08,Credit Card,17.85,Completed
+2177,376,2021-12-15,Cash,9.15,Completed
+2178,59,2021-04-08,Credit Card,6.84,Completed
+2179,33,2021-03-23,PayPal,8.26,Completed
+2180,318,2022-05-17,Credit Card,14.83,Returned
+2181,50,2022-04-22,Cash,11.99,Returned
+2182,368,2022-12-05,PayPal,18.28,Completed
+2183,489,2023-02-04,PayPal,12.84,Completed
+2184,19,2022-07-04,PayPal,10.87,Completed
+2185,214,2021-01-14,PayPal,16.14,Completed
+2186,197,2022-01-27,Credit Card,19.06,Completed
+2187,379,2021-12-13,Cash,8.41,Returned
+2188,450,2021-11-06,PayPal,6.5,Returned
+2189,478,2022-01-21,PayPal,13.09,Cancelled
+2190,47,2021-07-28,Cash,10.98,Returned
+2191,167,2021-12-23,Credit Card,19.81,Completed
+2192,452,2022-08-24,PayPal,10.32,Completed
+2193,289,2022-07-22,Credit Card,3.34,Completed
+2194,141,2021-04-04,Credit Card,19.59,Completed
+2195,84,2021-04-03,Credit Card,17.18,Completed
+2196,182,2021-12-06,Credit Card,5.21,Completed
+2197,391,2022-08-20,PayPal,18.28,Completed
+2198,79,2022-03-21,PayPal,8.13,Completed
+2199,215,2023-01-27,Credit Card,8.79,Completed
+2200,14,2021-01-22,Credit Card,18.32,Completed
+2201,215,2021-10-18,Cash,11.54,Completed
+2202,403,2022-04-30,Cash,4.48,Completed
+2203,128,2023-02-23,Cash,8.64,Completed
+2204,310,2021-11-02,PayPal,15.0,Completed
+2205,477,2022-09-26,Cash,5.14,Completed
+2206,248,2021-05-08,PayPal,12.62,Completed
+2207,404,2022-09-17,PayPal,14.51,Completed
+2208,29,2021-09-30,PayPal,8.19,Cancelled
+2209,280,2023-04-28,PayPal,14.49,Completed
+2210,338,2022-03-18,Cash,17.92,Completed
+2211,319,2022-05-18,Credit Card,10.5,Returned
+2212,202,2021-05-10,Credit Card,8.89,Returned
+2213,361,2021-05-12,Credit Card,6.52,Completed
+2214,57,2022-08-20,Cash,12.88,Completed
+2215,392,2022-04-27,Credit Card,17.84,Completed
+2216,218,2023-05-12,Cash,7.84,Completed
+2217,62,2022-01-25,Cash,9.13,Completed
+2218,157,2022-08-16,Cash,9.32,Returned
+2219,202,2021-11-21,Credit Card,12.09,Returned
+2220,17,2021-03-10,Credit Card,6.11,Completed
+2221,322,2022-10-22,Credit Card,16.8,Completed
+2222,6,2022-03-24,PayPal,7.32,Cancelled
+2223,58,2022-06-12,Cash,14.7,Completed
+2224,325,2023-03-30,PayPal,11.24,Completed
+2225,412,2022-09-09,Cash,12.55,Completed
+2226,318,2021-06-14,Credit Card,5.23,Completed
+2227,169,2022-05-03,Cash,15.23,Completed
+2228,453,2022-12-14,Cash,5.4,Completed
+2229,82,2022-12-10,PayPal,4.04,Completed
+2230,474,2022-03-02,Cash,11.84,Completed
+2231,468,2022-11-28,Credit Card,14.77,Completed
+2232,425,2023-04-14,Cash,2.9,Completed
+2233,433,2021-09-22,Cash,3.25,Completed
+2234,219,2023-05-25,Cash,16.45,Completed
+2235,177,2022-09-04,PayPal,16.56,Completed
+2236,204,2021-12-08,Cash,6.42,Completed
+2237,71,2023-04-12,Cash,13.07,Completed
+2238,387,2022-12-27,PayPal,9.98,Cancelled
+2239,266,2021-10-05,PayPal,13.39,Completed
+2240,98,2022-11-05,PayPal,17.53,Cancelled
+2241,345,2022-03-15,PayPal,3.44,Completed
+2242,291,2021-06-06,Credit Card,16.0,Completed
+2243,208,2022-02-26,Credit Card,10.87,Returned
+2244,2,2021-09-08,Cash,12.15,Returned
+2245,124,2023-05-28,Credit Card,13.77,Returned
+2246,280,2022-09-01,Cash,18.61,Completed
+2247,74,2022-06-14,Credit Card,3.02,Completed
+2248,166,2021-11-23,PayPal,2.53,Completed
+2249,22,2023-06-14,PayPal,5.21,Completed
+2250,154,2021-04-07,Credit Card,19.76,Completed
+2251,427,2022-05-28,Credit Card,14.87,Completed
+2252,439,2021-08-04,Cash,13.06,Completed
+2253,295,2021-05-12,Cash,2.85,Completed
+2254,219,2021-09-17,Cash,17.82,Completed
+2255,157,2021-05-05,PayPal,16.63,Completed
+2256,495,2021-03-23,PayPal,13.97,Returned
+2257,230,2021-10-10,PayPal,8.1,Completed
+2258,20,2022-11-14,PayPal,3.27,Completed
+2259,475,2021-02-28,Cash,12.44,Cancelled
+2260,41,2022-06-28,PayPal,14.95,Completed
+2261,438,2021-06-10,PayPal,3.7,Completed
+2262,148,2021-10-11,PayPal,13.41,Completed
+2263,108,2021-04-16,PayPal,7.15,Completed
+2264,403,2021-04-15,Credit Card,15.76,Completed
+2265,84,2022-03-15,Cash,11.71,Completed
+2266,483,2021-08-16,Cash,4.32,Completed
+2267,367,2022-12-01,PayPal,11.48,Completed
+2268,322,2022-08-05,Credit Card,9.12,Completed
+2269,414,2021-11-14,Cash,5.25,Completed
+2270,309,2022-04-09,Cash,17.15,Completed
+2271,290,2023-03-13,PayPal,2.2,Completed
+2272,406,2022-08-22,PayPal,7.62,Completed
+2273,323,2023-06-01,Cash,2.23,Completed
+2274,134,2023-05-24,Cash,3.73,Completed
+2275,207,2022-04-17,Credit Card,7.35,Completed
+2276,283,2021-02-25,Cash,2.98,Completed
+2277,266,2022-09-17,Cash,12.74,Completed
+2278,73,2021-01-13,PayPal,3.56,Completed
+2279,481,2022-03-16,Cash,14.63,Completed
+2280,352,2021-01-18,PayPal,2.95,Completed
+2281,48,2022-11-25,Cash,3.07,Completed
+2282,326,2021-04-23,Cash,7.5,Completed
+2283,233,2021-08-17,Cash,18.14,Completed
+2284,443,2021-06-20,Credit Card,13.55,Completed
+2285,100,2021-10-22,PayPal,15.86,Returned
+2286,59,2021-07-08,Credit Card,4.55,Completed
+2287,258,2022-03-02,Cash,17.01,Completed
+2288,413,2021-03-20,Credit Card,2.15,Completed
+2289,452,2022-10-20,PayPal,5.84,Completed
+2290,65,2021-07-01,Cash,13.09,Returned
+2291,83,2022-05-14,Credit Card,8.75,Completed
+2292,154,2023-03-09,Credit Card,19.72,Completed
+2293,473,2023-02-01,PayPal,2.55,Completed
+2294,266,2023-05-16,Credit Card,19.97,Completed
+2295,309,2023-04-06,PayPal,13.23,Completed
+2296,79,2022-12-09,Cash,12.06,Completed
+2297,315,2023-04-15,Cash,3.07,Returned
+2298,150,2021-03-12,Credit Card,6.92,Completed
+2299,435,2021-09-05,Cash,18.64,Completed
+2300,48,2021-05-26,Cash,8.38,Completed
+2301,405,2022-09-10,Credit Card,13.91,Completed
+2302,379,2023-02-14,Cash,19.99,Completed
+2303,248,2021-10-23,Credit Card,6.74,Completed
+2304,278,2022-08-05,PayPal,12.37,Completed
+2305,356,2022-04-15,PayPal,14.54,Completed
+2306,98,2022-05-21,PayPal,4.96,Cancelled
+2307,414,2021-07-12,Credit Card,4.68,Completed
+2308,25,2021-03-09,Credit Card,10.21,Completed
+2309,493,2022-05-09,Cash,8.94,Completed
+2310,284,2023-03-28,Cash,14.86,Completed
+2311,449,2021-02-21,Cash,3.25,Completed
+2312,369,2023-06-01,Cash,19.5,Completed
+2313,301,2021-12-29,Cash,2.26,Completed
+2314,68,2023-03-08,Credit Card,12.82,Completed
+2315,7,2022-04-19,Credit Card,12.13,Completed
+2316,305,2023-04-26,PayPal,4.42,Completed
+2317,137,2022-06-05,PayPal,4.72,Completed
+2318,164,2023-02-02,PayPal,16.27,Completed
+2319,83,2022-03-07,PayPal,17.98,Completed
+2320,385,2023-04-24,Credit Card,7.09,Completed
+2321,138,2021-10-25,Credit Card,9.88,Completed
+2322,420,2022-03-11,Credit Card,8.39,Completed
+2323,73,2022-11-27,Cash,3.31,Completed
+2324,237,2022-11-22,Cash,14.12,Completed
+2325,46,2021-07-17,PayPal,16.85,Completed
+2326,106,2021-05-08,Cash,7.49,Completed
+2327,416,2022-06-16,Credit Card,19.82,Returned
+2328,288,2022-02-15,PayPal,3.37,Cancelled
+2329,262,2023-04-20,PayPal,13.91,Returned
+2330,176,2021-03-06,Cash,10.07,Completed
+2331,166,2022-11-25,PayPal,10.04,Completed
+2332,145,2021-08-29,Cash,10.24,Completed
+2333,330,2022-01-04,Cash,6.66,Completed
+2334,370,2022-06-20,PayPal,14.88,Completed
+2335,283,2022-01-19,Cash,14.99,Completed
+2336,54,2022-03-07,Cash,7.08,Completed
+2337,178,2021-03-24,Cash,17.04,Completed
+2338,419,2023-04-11,Cash,7.7,Completed
+2339,244,2022-11-28,PayPal,15.05,Completed
+2340,341,2023-04-08,Credit Card,4.18,Completed
+2341,127,2022-09-03,Credit Card,5.04,Returned
+2342,409,2022-07-28,Cash,7.68,Completed
+2343,412,2021-10-13,Cash,12.69,Completed
+2344,367,2022-06-18,Cash,13.62,Completed
+2345,271,2022-04-04,Credit Card,9.13,Completed
+2346,132,2021-07-31,Cash,3.4,Completed
+2347,93,2021-05-06,PayPal,8.73,Completed
+2348,379,2022-02-17,PayPal,14.4,Completed
+2349,73,2022-05-14,PayPal,14.08,Completed
+2350,411,2022-03-01,Credit Card,4.88,Completed
+2351,410,2022-07-08,Cash,2.14,Completed
+2352,403,2022-09-02,Cash,15.55,Completed
+2353,248,2022-06-27,Cash,3.91,Completed
+2354,348,2021-06-07,Credit Card,3.48,Completed
+2355,273,2021-04-22,Credit Card,2.05,Completed
+2356,43,2022-02-06,Credit Card,9.79,Completed
+2357,377,2023-01-29,Credit Card,11.06,Completed
+2358,41,2021-05-02,PayPal,13.48,Completed
+2359,170,2021-09-30,Credit Card,7.33,Completed
+2360,434,2021-10-21,Credit Card,14.79,Completed
+2361,212,2022-02-02,Credit Card,5.05,Completed
+2362,493,2022-04-16,Cash,16.98,Completed
+2363,168,2021-07-26,Cash,12.29,Returned
+2364,39,2021-04-20,Cash,12.51,Completed
+2365,369,2022-03-16,PayPal,5.78,Completed
+2366,245,2021-10-05,PayPal,3.33,Completed
+2367,151,2022-07-22,Credit Card,10.37,Completed
+2368,111,2023-06-06,Cash,13.08,Completed
+2369,480,2022-07-23,PayPal,3.71,Completed
+2370,436,2022-04-27,Cash,19.11,Completed
+2371,47,2023-03-14,PayPal,19.65,Completed
+2372,63,2021-04-24,PayPal,11.82,Completed
+2373,225,2023-06-12,Credit Card,19.1,Returned
+2374,366,2023-06-16,Credit Card,5.23,Completed
+2375,69,2023-03-31,PayPal,2.46,Completed
+2376,299,2023-05-03,Credit Card,2.71,Completed
+2377,432,2022-04-22,PayPal,12.58,Completed
+2378,290,2022-12-11,PayPal,3.11,Completed
+2379,296,2021-11-17,Cash,19.25,Completed
+2380,203,2021-06-28,Credit Card,4.55,Completed
+2381,61,2023-06-16,Credit Card,7.49,Completed
+2382,434,2021-08-07,Credit Card,16.81,Completed
+2383,451,2023-02-28,Cash,5.94,Cancelled
+2384,318,2022-06-12,Cash,6.37,Completed
+2385,314,2022-05-07,Cash,13.56,Completed
+2386,161,2023-06-10,Credit Card,6.97,Returned
+2387,331,2021-03-02,Credit Card,5.91,Completed
+2388,16,2021-02-23,Credit Card,6.58,Returned
+2389,338,2022-11-11,Cash,10.83,Completed
+2390,94,2022-06-22,Cash,19.39,Completed
+2391,304,2023-04-28,PayPal,16.98,Returned
+2392,138,2021-03-06,Cash,7.12,Completed
+2393,338,2022-09-04,PayPal,8.54,Returned
+2394,38,2022-08-09,Credit Card,10.36,Completed
+2395,127,2022-12-05,Cash,19.62,Cancelled
+2396,275,2021-06-20,Credit Card,5.1,Completed
+2397,164,2021-09-30,Credit Card,8.43,Completed
+2398,443,2023-06-08,Credit Card,15.13,Completed
+2399,319,2022-11-30,Credit Card,19.35,Cancelled
+2400,77,2022-06-19,Cash,4.8,Completed
+2401,174,2022-01-26,Credit Card,6.09,Completed
+2402,387,2022-11-24,PayPal,6.06,Completed
+2403,458,2021-11-23,Cash,2.38,Completed
+2404,358,2021-04-18,Credit Card,12.87,Completed
+2405,321,2023-04-27,Cash,14.07,Completed
+2406,376,2021-06-11,PayPal,12.85,Completed
+2407,91,2023-03-25,Credit Card,3.28,Completed
+2408,238,2022-03-28,PayPal,3.25,Returned
+2409,264,2021-07-25,Credit Card,5.79,Completed
+2410,179,2022-08-13,PayPal,7.23,Completed
+2411,494,2021-01-16,Credit Card,16.16,Completed
+2412,490,2021-11-23,Cash,4.87,Completed
+2413,209,2022-08-31,Credit Card,2.79,Completed
+2414,73,2022-10-21,Cash,9.09,Completed
+2415,390,2021-01-02,Credit Card,9.5,Completed
+2416,107,2021-01-10,Credit Card,10.12,Completed
+2417,345,2022-03-10,PayPal,16.88,Completed
+2418,295,2021-05-05,PayPal,3.76,Completed
+2419,369,2021-03-22,PayPal,14.67,Completed
+2420,444,2022-04-30,Credit Card,8.08,Completed
+2421,284,2022-10-14,Credit Card,7.58,Completed
+2422,353,2023-04-18,Credit Card,18.79,Cancelled
+2423,182,2021-05-30,Cash,6.47,Completed
+2424,37,2023-03-11,Cash,13.57,Completed
+2425,137,2023-05-23,Credit Card,6.95,Completed
+2426,338,2021-12-06,PayPal,11.13,Completed
+2427,56,2021-05-09,PayPal,16.15,Completed
+2428,187,2022-03-14,PayPal,17.87,Completed
+2429,341,2023-01-21,Credit Card,17.1,Completed
+2430,258,2022-05-16,PayPal,12.48,Completed
+2431,445,2021-02-27,Credit Card,6.48,Completed
+2432,58,2021-07-17,Cash,13.9,Completed
+2433,363,2021-07-30,PayPal,14.78,Completed
+2434,123,2021-02-14,Cash,2.19,Returned
+2435,188,2021-04-07,PayPal,9.91,Completed
+2436,230,2021-10-06,Credit Card,17.18,Returned
+2437,168,2022-06-19,Credit Card,10.81,Completed
+2438,420,2022-02-14,Credit Card,7.6,Completed
+2439,114,2022-04-06,Credit Card,17.69,Completed
+2440,252,2022-01-26,PayPal,4.81,Completed
+2441,107,2023-04-27,Cash,5.72,Completed
+2442,37,2021-02-13,Credit Card,14.37,Completed
+2443,335,2021-01-27,PayPal,8.34,Completed
+2444,92,2023-03-05,Cash,14.83,Completed
+2445,18,2021-04-07,Credit Card,4.84,Completed
+2446,354,2022-07-02,Cash,6.54,Completed
+2447,63,2022-09-13,Credit Card,4.82,Completed
+2448,150,2022-07-21,Cash,19.15,Completed
+2449,139,2022-12-05,Cash,9.3,Completed
+2450,186,2021-08-07,Credit Card,8.07,Completed
+2451,185,2021-07-04,PayPal,2.26,Completed
+2452,205,2021-03-10,Cash,4.76,Returned
+2453,260,2023-04-09,Credit Card,9.58,Completed
+2454,214,2021-05-10,Cash,3.23,Completed
+2455,256,2022-07-21,Cash,11.19,Completed
+2456,135,2023-06-09,PayPal,10.19,Completed
+2457,61,2022-09-01,Cash,15.81,Completed
+2458,363,2023-04-28,Cash,13.88,Completed
+2459,310,2022-08-22,Credit Card,10.03,Completed
+2460,88,2023-03-17,Credit Card,6.04,Completed
+2461,324,2022-09-23,PayPal,15.08,Completed
+2462,476,2022-12-21,Cash,14.74,Completed
+2463,207,2021-11-30,Cash,4.76,Completed
+2464,129,2021-06-03,Cash,18.47,Completed
+2465,311,2022-07-01,PayPal,3.16,Completed
+2466,3,2021-03-20,Cash,2.99,Completed
+2467,462,2022-08-02,Credit Card,5.37,Completed
+2468,422,2023-05-05,PayPal,18.37,Completed
+2469,242,2022-02-17,Credit Card,11.36,Completed
+2470,121,2022-06-30,Credit Card,16.18,Completed
+2471,385,2022-09-01,PayPal,6.1,Completed
+2472,102,2021-06-18,Credit Card,10.82,Completed
+2473,38,2022-11-12,Cash,8.45,Completed
+2474,341,2022-10-25,PayPal,16.9,Completed
+2475,496,2022-08-06,Credit Card,2.41,Completed
+2476,413,2022-05-30,Cash,6.39,Returned
+2477,133,2021-11-10,Cash,4.75,Completed
+2478,497,2021-02-01,Credit Card,17.47,Completed
+2479,202,2021-10-14,Cash,10.42,Completed
+2480,348,2022-08-17,PayPal,9.28,Completed
+2481,21,2021-02-12,Credit Card,10.09,Completed
+2482,242,2022-09-09,Cash,19.49,Completed
+2483,455,2021-01-01,Cash,17.3,Cancelled
+2484,451,2022-07-27,Credit Card,14.71,Completed
+2485,109,2021-09-27,Credit Card,7.23,Completed
+2486,303,2021-06-29,Credit Card,4.97,Completed
+2487,84,2023-01-06,Credit Card,18.59,Returned
+2488,83,2022-06-02,PayPal,9.62,Completed
+2489,291,2021-04-13,Credit Card,7.02,Completed
+2490,452,2021-01-10,PayPal,10.48,Completed
+2491,69,2022-08-06,PayPal,18.52,Completed
+2492,129,2021-03-31,Credit Card,8.97,Completed
+2493,196,2021-08-14,PayPal,12.13,Completed
+2494,140,2022-11-01,Credit Card,16.45,Completed
+2495,444,2023-01-10,Credit Card,9.69,Completed
+2496,283,2021-05-06,Cash,6.2,Completed
+2497,312,2021-07-28,Credit Card,19.9,Completed
+2498,234,2021-04-07,Cash,19.22,Completed
+2499,23,2021-03-15,PayPal,17.18,Completed
+2500,153,2022-09-19,Cash,14.39,Completed
+2501,277,2021-07-10,PayPal,7.31,Completed
+2502,61,2022-11-13,Credit Card,18.44,Completed
+2503,319,2023-03-30,PayPal,6.96,Completed
+2504,378,2022-12-17,PayPal,16.41,Completed
+2505,52,2021-02-25,Credit Card,18.53,Completed
+2506,344,2022-12-21,PayPal,12.85,Completed
+2507,153,2022-07-07,Credit Card,16.46,Completed
+2508,237,2021-02-01,Cash,16.25,Completed
+2509,311,2022-06-11,Credit Card,5.48,Cancelled
+2510,302,2022-07-28,Credit Card,14.02,Completed
+2511,32,2022-10-29,PayPal,3.68,Completed
+2512,55,2021-10-11,Cash,11.14,Completed
+2513,352,2022-12-22,Credit Card,4.92,Completed
+2514,389,2023-04-12,Cash,9.49,Completed
+2515,36,2022-05-09,Cash,16.99,Completed
+2516,110,2021-07-06,PayPal,19.77,Completed
+2517,490,2022-05-13,Credit Card,7.72,Returned
+2518,177,2022-03-18,PayPal,11.58,Completed
+2519,362,2021-05-10,Credit Card,11.2,Completed
+2520,314,2022-10-01,Cash,19.18,Completed
+2521,295,2021-10-19,Credit Card,10.61,Completed
+2522,336,2021-04-24,Credit Card,14.58,Returned
+2523,97,2021-07-18,Cash,18.59,Completed
+2524,369,2021-01-13,Cash,8.72,Completed
+2525,213,2021-09-28,Credit Card,18.24,Returned
+2526,317,2022-08-24,PayPal,18.51,Completed
+2527,137,2021-08-03,Credit Card,18.75,Completed
+2528,6,2022-03-20,Cash,6.87,Completed
+2529,499,2023-03-01,PayPal,9.21,Completed
+2530,109,2022-05-27,Cash,17.67,Returned
+2531,35,2022-03-23,Cash,8.46,Completed
+2532,39,2022-12-16,PayPal,12.8,Completed
+2533,150,2021-03-15,Cash,4.12,Returned
+2534,425,2022-06-21,Cash,3.01,Completed
+2535,118,2021-04-11,Cash,9.42,Returned
+2536,261,2021-06-25,Cash,12.42,Completed
+2537,426,2022-03-03,Cash,9.07,Completed
+2538,87,2021-04-27,Cash,12.4,Completed
+2539,465,2021-06-15,Cash,11.27,Completed
+2540,76,2021-02-10,Cash,14.34,Completed
+2541,471,2022-03-05,Cash,13.69,Completed
+2542,464,2021-12-10,Credit Card,9.64,Returned
+2543,451,2022-02-28,Credit Card,9.65,Completed
+2544,414,2022-01-01,Cash,4.53,Completed
+2545,313,2021-04-30,Credit Card,11.24,Completed
+2546,383,2022-09-01,PayPal,12.57,Returned
+2547,214,2022-10-19,Credit Card,10.58,Completed
+2548,457,2022-12-29,Cash,7.86,Completed
+2549,285,2021-08-17,Cash,14.99,Completed
+2550,239,2023-04-05,Credit Card,3.34,Completed
+2551,165,2021-05-10,Cash,18.46,Returned
+2552,87,2021-12-18,PayPal,2.37,Completed
+2553,141,2023-06-08,PayPal,19.32,Completed
+2554,160,2021-11-14,Cash,10.32,Completed
+2555,46,2022-10-11,PayPal,9.43,Completed
+2556,372,2023-04-16,PayPal,6.62,Completed
+2557,495,2021-12-03,Credit Card,2.18,Completed
+2558,112,2021-09-30,PayPal,6.95,Completed
+2559,407,2021-04-27,Credit Card,3.97,Completed
+2560,45,2023-03-29,Cash,13.88,Cancelled
+2561,401,2022-01-03,Credit Card,7.74,Completed
+2562,247,2021-04-04,Cash,15.81,Completed
+2563,104,2021-06-17,Cash,5.72,Completed
+2564,85,2022-12-16,Cash,18.2,Completed
+2565,450,2021-12-07,Cash,11.41,Completed
+2566,485,2022-10-23,Cash,4.06,Completed
+2567,134,2022-11-26,Credit Card,9.22,Completed
+2568,108,2021-06-01,Cash,5.72,Completed
+2569,18,2022-08-09,PayPal,5.59,Completed
+2570,94,2023-05-27,PayPal,11.11,Completed
+2571,150,2021-10-01,Cash,14.09,Completed
+2572,246,2022-07-08,PayPal,18.41,Completed
+2573,289,2022-05-11,Credit Card,11.04,Completed
+2574,414,2022-12-25,Credit Card,19.39,Completed
+2575,209,2021-04-11,Cash,18.95,Completed
+2576,126,2022-07-11,Cash,17.57,Completed
+2577,235,2021-03-23,Cash,11.0,Completed
+2578,416,2022-06-13,PayPal,4.54,Completed
+2579,426,2021-03-14,PayPal,5.92,Completed
+2580,499,2021-01-14,Credit Card,13.66,Completed
+2581,462,2022-03-09,PayPal,9.59,Completed
+2582,122,2021-06-06,Credit Card,4.64,Completed
+2583,138,2023-01-05,PayPal,10.62,Returned
+2584,495,2021-05-12,Credit Card,2.31,Completed
+2585,115,2021-12-04,Cash,15.21,Completed
+2586,420,2022-02-08,PayPal,3.32,Completed
+2587,162,2022-01-11,Credit Card,13.32,Completed
+2588,201,2023-06-07,PayPal,16.27,Completed
+2589,234,2022-07-13,Cash,4.39,Completed
+2590,28,2021-04-17,Credit Card,11.34,Completed
+2591,11,2022-09-12,PayPal,16.02,Completed
+2592,206,2021-09-22,PayPal,6.69,Completed
+2593,167,2021-07-24,Cash,4.93,Completed
+2594,247,2021-03-20,Cash,8.06,Completed
+2595,47,2021-06-04,Credit Card,11.98,Completed
+2596,246,2023-02-22,PayPal,12.36,Completed
+2597,127,2021-09-04,PayPal,4.36,Completed
+2598,147,2022-06-15,Cash,10.24,Completed
+2599,118,2023-05-08,Cash,6.83,Completed
+2600,399,2022-06-22,Credit Card,17.16,Completed
+2601,382,2022-12-30,PayPal,7.64,Completed
+2602,412,2021-06-03,PayPal,17.1,Cancelled
+2603,152,2021-06-03,Credit Card,9.71,Returned
+2604,72,2022-11-17,Credit Card,15.08,Completed
+2605,363,2021-04-02,Cash,11.18,Completed
+2606,137,2022-03-09,Cash,13.2,Cancelled
+2607,175,2021-12-04,Credit Card,9.12,Completed
+2608,289,2022-04-25,Credit Card,15.83,Completed
+2609,446,2022-11-24,PayPal,9.65,Completed
+2610,481,2021-05-11,Credit Card,10.23,Completed
+2611,19,2022-03-26,Credit Card,11.32,Completed
+2612,195,2023-03-21,PayPal,16.97,Completed
+2613,330,2023-02-26,Credit Card,13.87,Completed
+2614,424,2021-09-30,Cash,8.28,Completed
+2615,175,2022-08-11,Cash,14.07,Completed
+2616,490,2021-06-26,PayPal,13.56,Completed
+2617,449,2022-11-27,Credit Card,18.76,Completed
+2618,413,2023-04-11,Cash,17.15,Completed
+2619,434,2022-10-05,Cash,13.65,Completed
+2620,354,2023-05-25,Cash,8.15,Completed
+2621,499,2021-02-18,Cash,16.03,Completed
+2622,141,2022-07-21,Credit Card,12.35,Completed
+2623,246,2022-10-28,Credit Card,19.73,Completed
+2624,385,2021-12-21,Credit Card,6.46,Completed
+2625,418,2022-12-13,Credit Card,3.43,Completed
+2626,93,2021-11-04,Cash,3.26,Completed
+2627,432,2023-05-18,PayPal,13.52,Completed
+2628,239,2023-06-04,PayPal,18.91,Completed
+2629,205,2022-09-22,Cash,2.03,Completed
+2630,48,2023-02-14,Cash,15.06,Completed
+2631,433,2021-02-15,PayPal,13.83,Completed
+2632,245,2021-10-29,PayPal,15.18,Completed
+2633,320,2023-05-18,Cash,8.4,Completed
+2634,317,2022-02-12,Cash,16.77,Cancelled
+2635,413,2021-07-08,Credit Card,2.8,Completed
+2636,295,2023-04-02,Credit Card,15.6,Completed
+2637,128,2023-04-10,PayPal,6.81,Completed
+2638,344,2021-05-09,Cash,10.58,Completed
+2639,282,2022-07-15,PayPal,16.81,Completed
+2640,17,2022-06-21,Credit Card,6.88,Completed
+2641,71,2021-09-23,Credit Card,5.33,Completed
+2642,269,2021-04-28,PayPal,14.26,Completed
+2643,325,2022-04-09,Credit Card,11.6,Completed
+2644,282,2021-05-24,Cash,11.26,Completed
+2645,305,2022-03-18,PayPal,6.62,Completed
+2646,451,2021-07-19,Cash,2.63,Completed
+2647,7,2021-06-06,Cash,9.38,Completed
+2648,314,2022-05-02,Credit Card,3.92,Completed
+2649,305,2023-05-10,Cash,18.31,Completed
+2650,103,2021-05-14,PayPal,2.74,Completed
+2651,309,2021-05-28,Cash,9.77,Completed
+2652,193,2021-12-02,Cash,2.94,Completed
+2653,241,2021-03-12,Cash,3.72,Completed
+2654,62,2021-08-21,Cash,13.86,Completed
+2655,17,2021-11-30,Cash,13.65,Completed
+2656,171,2023-03-22,Credit Card,2.59,Completed
+2657,25,2022-10-28,PayPal,2.02,Completed
+2658,251,2021-03-31,Credit Card,3.42,Completed
+2659,253,2021-11-30,PayPal,15.73,Cancelled
+2660,387,2021-07-18,PayPal,12.52,Completed
+2661,207,2021-06-10,PayPal,2.69,Completed
+2662,29,2022-06-22,PayPal,10.79,Completed
+2663,117,2021-05-01,PayPal,14.82,Completed
+2664,491,2021-10-28,Cash,17.64,Completed
+2665,416,2022-12-25,Credit Card,18.81,Completed
+2666,282,2022-07-29,Credit Card,7.89,Completed
+2667,380,2022-03-12,Cash,4.44,Completed
+2668,144,2021-03-09,PayPal,6.26,Completed
+2669,25,2023-02-04,Credit Card,15.97,Completed
+2670,310,2022-04-04,Cash,19.49,Completed
+2671,156,2022-05-29,Cash,10.4,Completed
+2672,73,2022-02-02,Credit Card,7.5,Completed
+2673,120,2022-09-12,Credit Card,9.73,Completed
+2674,312,2021-10-13,PayPal,7.49,Completed
+2675,321,2022-07-15,PayPal,6.62,Returned
+2676,93,2021-05-20,Credit Card,12.69,Completed
+2677,86,2022-12-31,PayPal,2.28,Completed
+2678,336,2022-07-10,Cash,6.67,Completed
+2679,425,2023-02-20,PayPal,13.9,Completed
+2680,499,2022-08-13,PayPal,2.58,Completed
+2681,364,2022-12-29,Cash,3.5,Completed
+2682,435,2023-06-13,PayPal,7.28,Completed
+2683,118,2022-09-02,Cash,17.8,Cancelled
+2684,233,2023-01-18,PayPal,15.77,Completed
+2685,199,2021-10-09,Credit Card,2.4,Cancelled
+2686,206,2022-10-23,PayPal,11.03,Completed
+2687,413,2023-03-27,Credit Card,6.94,Completed
+2688,339,2022-08-01,Credit Card,13.68,Completed
+2689,147,2023-01-16,Credit Card,14.99,Completed
+2690,450,2022-04-02,Credit Card,17.53,Completed
+2691,425,2021-03-28,Credit Card,10.56,Completed
+2692,429,2021-03-20,Cash,19.9,Returned
+2693,271,2021-07-24,Cash,19.64,Cancelled
+2694,387,2023-03-02,Cash,17.88,Completed
+2695,139,2021-12-03,Credit Card,12.35,Completed
+2696,181,2021-09-11,PayPal,9.16,Completed
+2697,430,2021-10-31,Cash,8.56,Completed
+2698,30,2022-01-15,PayPal,2.22,Completed
+2699,57,2021-05-10,PayPal,6.49,Returned
+2700,232,2022-08-19,Credit Card,14.94,Completed
+2701,146,2021-10-03,Credit Card,12.87,Completed
+2702,435,2022-11-30,Credit Card,18.5,Completed
+2703,384,2022-07-12,Cash,2.9,Completed
+2704,48,2023-06-18,Credit Card,4.79,Completed
+2705,194,2021-07-02,Cash,16.21,Completed
+2706,224,2021-09-25,Cash,8.45,Cancelled
+2707,136,2023-03-19,Cash,4.13,Completed
+2708,22,2021-11-18,Cash,19.94,Completed
+2709,6,2022-05-27,Credit Card,16.17,Completed
+2710,204,2022-09-04,Cash,9.36,Returned
+2711,239,2021-03-19,Credit Card,16.82,Cancelled
+2712,185,2023-02-23,Credit Card,14.25,Completed
+2713,360,2021-12-05,Cash,16.22,Completed
+2714,292,2022-11-05,Credit Card,16.67,Cancelled
+2715,335,2022-07-10,PayPal,3.53,Completed
+2716,220,2022-05-24,Credit Card,13.21,Completed
+2717,116,2021-08-26,Credit Card,2.12,Completed
+2718,313,2021-05-14,Cash,2.78,Completed
+2719,49,2021-07-11,Cash,18.27,Completed
+2720,173,2021-12-22,Credit Card,11.5,Completed
+2721,82,2021-10-05,Cash,15.25,Completed
+2722,322,2021-01-18,PayPal,17.09,Completed
+2723,333,2022-06-08,PayPal,19.09,Completed
+2724,45,2021-06-29,Cash,17.65,Completed
+2725,335,2021-05-03,Credit Card,10.7,Completed
+2726,20,2021-09-03,PayPal,8.05,Completed
+2727,448,2023-01-04,PayPal,4.78,Completed
+2728,221,2022-01-08,Credit Card,9.21,Returned
+2729,123,2021-02-20,Cash,8.6,Returned
+2730,234,2021-03-12,PayPal,12.07,Cancelled
+2731,221,2022-04-25,Credit Card,13.98,Completed
+2732,323,2022-07-14,Credit Card,19.61,Completed
+2733,339,2021-01-19,PayPal,15.11,Returned
+2734,3,2023-02-13,Cash,13.59,Completed
+2735,182,2021-03-25,PayPal,8.03,Completed
+2736,206,2021-06-04,Credit Card,2.62,Completed
+2737,320,2022-07-19,PayPal,7.19,Completed
+2738,40,2022-09-11,Cash,15.83,Completed
+2739,59,2021-12-23,Credit Card,5.69,Completed
+2740,439,2023-03-27,Cash,14.82,Completed
+2741,62,2022-10-09,PayPal,12.44,Completed
+2742,132,2022-03-19,PayPal,5.09,Cancelled
+2743,60,2021-03-10,Cash,6.71,Completed
+2744,372,2022-06-07,PayPal,10.93,Completed
+2745,331,2021-05-23,Cash,9.53,Returned
+2746,122,2021-07-11,PayPal,16.01,Completed
+2747,479,2022-01-22,Cash,15.22,Completed
+2748,107,2022-01-13,Cash,12.34,Completed
+2749,96,2022-08-04,Credit Card,16.8,Completed
+2750,347,2022-06-19,Credit Card,12.13,Returned
+2751,414,2022-11-24,Cash,19.36,Completed
+2752,235,2021-10-20,PayPal,5.91,Cancelled
+2753,386,2021-01-09,PayPal,14.85,Completed
+2754,62,2021-09-28,PayPal,8.66,Completed
+2755,256,2022-01-22,Cash,7.02,Completed
+2756,49,2021-04-03,Cash,5.25,Completed
+2757,393,2022-06-13,Cash,11.95,Completed
+2758,348,2021-06-03,Cash,5.88,Completed
+2759,159,2022-02-09,Credit Card,5.61,Completed
+2760,124,2023-04-20,Cash,19.83,Completed
+2761,482,2021-05-29,PayPal,16.43,Completed
+2762,317,2023-06-08,Credit Card,15.47,Completed
+2763,207,2021-09-24,PayPal,16.29,Completed
+2764,48,2022-02-26,Cash,19.44,Completed
+2765,409,2023-04-20,Credit Card,12.32,Returned
+2766,420,2022-09-10,Cash,5.96,Completed
+2767,136,2022-04-17,Credit Card,17.52,Completed
+2768,201,2023-06-12,PayPal,15.37,Completed
+2769,250,2022-07-01,Cash,9.46,Completed
+2770,314,2022-09-23,Cash,10.52,Returned
+2771,357,2022-06-10,Credit Card,9.4,Completed
+2772,368,2022-05-18,Credit Card,18.74,Returned
+2773,429,2021-01-14,Cash,8.18,Completed
+2774,318,2023-02-17,Credit Card,19.34,Returned
+2775,295,2022-10-14,Cash,18.38,Completed
+2776,480,2023-03-17,Credit Card,13.35,Completed
+2777,314,2021-12-30,PayPal,12.44,Completed
+2778,500,2021-04-29,Credit Card,8.66,Completed
+2779,209,2021-08-26,PayPal,2.33,Completed
+2780,355,2022-06-30,Credit Card,4.3,Completed
+2781,485,2021-06-18,Credit Card,15.58,Completed
+2782,211,2022-06-06,Cash,10.49,Completed
+2783,192,2022-09-26,Credit Card,4.7,Completed
+2784,44,2022-10-19,Credit Card,6.75,Completed
+2785,29,2023-01-05,PayPal,19.06,Completed
+2786,59,2023-06-02,Credit Card,8.61,Completed
+2787,71,2023-02-08,Cash,18.34,Returned
+2788,92,2023-02-19,PayPal,7.48,Completed
+2789,265,2023-05-21,Cash,11.78,Completed
+2790,383,2022-05-31,Cash,2.37,Completed
+2791,220,2022-02-01,Cash,11.39,Returned
+2792,390,2023-05-16,Cash,13.46,Completed
+2793,413,2021-04-16,PayPal,6.22,Completed
+2794,442,2021-03-26,Credit Card,12.42,Completed
+2795,401,2021-08-02,Cash,13.65,Completed
+2796,400,2021-05-01,PayPal,14.36,Completed
+2797,215,2021-05-12,Cash,15.98,Completed
+2798,479,2023-04-30,Credit Card,7.6,Completed
+2799,387,2021-07-16,PayPal,12.22,Returned
+2800,277,2021-01-19,PayPal,19.67,Completed
+2801,64,2022-10-04,Credit Card,18.17,Completed
+2802,346,2021-01-12,PayPal,19.15,Completed
+2803,292,2021-03-22,Credit Card,8.95,Completed
+2804,490,2021-11-26,PayPal,16.16,Completed
+2805,485,2023-05-16,PayPal,13.16,Completed
+2806,245,2023-02-13,Credit Card,3.49,Completed
+2807,470,2022-01-27,Credit Card,16.83,Completed
+2808,62,2022-09-29,PayPal,14.19,Returned
+2809,426,2021-11-03,PayPal,5.58,Completed
+2810,332,2021-09-24,Credit Card,3.44,Completed
+2811,170,2022-03-23,Credit Card,17.07,Completed
+2812,445,2022-03-17,PayPal,3.42,Completed
+2813,269,2023-06-14,PayPal,3.64,Completed
+2814,267,2022-10-14,PayPal,9.69,Completed
+2815,54,2023-04-21,Credit Card,4.43,Completed
+2816,16,2021-01-02,PayPal,18.45,Completed
+2817,8,2022-06-04,Cash,10.47,Completed
+2818,104,2023-02-01,Credit Card,12.24,Completed
+2819,59,2022-10-13,PayPal,18.71,Completed
+2820,313,2022-09-28,Credit Card,11.54,Completed
+2821,40,2021-11-05,Cash,8.36,Completed
+2822,237,2023-01-10,Credit Card,16.35,Completed
+2823,443,2022-06-06,PayPal,9.97,Completed
+2824,386,2022-04-14,Cash,7.73,Completed
+2825,94,2021-07-31,Cash,15.02,Completed
+2826,222,2021-04-22,PayPal,16.43,Completed
+2827,204,2021-01-08,PayPal,16.25,Completed
+2828,138,2023-03-15,PayPal,19.6,Completed
+2829,300,2022-04-22,Credit Card,16.16,Cancelled
+2830,395,2023-05-24,Credit Card,15.86,Completed
+2831,207,2022-04-05,Credit Card,17.43,Completed
+2832,336,2021-09-10,PayPal,2.0,Completed
+2833,81,2022-06-10,PayPal,8.52,Completed
+2834,218,2023-01-22,Credit Card,15.28,Completed
+2835,2,2022-03-14,Cash,12.79,Completed
+2836,178,2023-01-24,Credit Card,5.2,Cancelled
+2837,396,2023-05-04,Cash,7.47,Returned
+2838,371,2022-10-23,PayPal,8.06,Returned
+2839,346,2021-08-24,PayPal,12.22,Completed
+2840,279,2021-11-02,Credit Card,16.97,Returned
+2841,146,2022-04-23,Credit Card,18.78,Completed
+2842,318,2022-11-10,PayPal,15.5,Completed
+2843,224,2021-01-20,Credit Card,17.17,Completed
+2844,369,2021-08-04,PayPal,10.46,Completed
+2845,384,2023-05-05,PayPal,9.02,Completed
+2846,62,2021-05-15,Cash,9.07,Completed
+2847,294,2021-05-09,Credit Card,13.09,Completed
+2848,239,2022-02-14,PayPal,4.24,Returned
+2849,195,2022-02-26,Credit Card,12.43,Completed
+2850,166,2021-10-21,Cash,13.97,Completed
+2851,451,2021-09-03,Cash,9.9,Completed
+2852,222,2022-12-02,Credit Card,19.16,Returned
+2853,61,2022-07-10,Credit Card,12.95,Completed
+2854,129,2021-03-27,PayPal,5.96,Completed
+2855,478,2022-07-10,Cash,10.63,Returned
+2856,173,2023-04-22,Cash,14.16,Completed
+2857,480,2022-01-10,Cash,7.83,Completed
+2858,156,2022-03-22,Credit Card,3.43,Completed
+2859,405,2022-01-13,PayPal,12.5,Completed
+2860,378,2022-01-25,Credit Card,19.06,Completed
+2861,110,2022-10-19,Credit Card,10.73,Completed
+2862,269,2021-02-20,Credit Card,18.31,Returned
+2863,411,2021-08-30,PayPal,17.03,Returned
+2864,356,2021-10-21,Credit Card,4.65,Completed
+2865,391,2022-07-17,Cash,14.75,Completed
+2866,278,2021-09-23,Cash,9.84,Cancelled
+2867,74,2021-04-30,Cash,6.5,Completed
+2868,487,2022-12-13,PayPal,14.36,Completed
+2869,437,2021-09-05,Credit Card,15.37,Completed
+2870,463,2021-03-11,PayPal,5.24,Completed
+2871,207,2023-05-03,Credit Card,18.46,Completed
+2872,388,2021-02-26,Cash,15.52,Completed
+2873,480,2022-01-17,Credit Card,18.8,Completed
+2874,279,2021-02-08,Credit Card,7.71,Returned
+2875,375,2023-03-12,Credit Card,18.91,Completed
+2876,326,2022-03-19,PayPal,8.63,Completed
+2877,472,2021-01-18,Credit Card,2.97,Cancelled
+2878,340,2023-01-02,Credit Card,15.73,Completed
+2879,357,2023-04-05,Credit Card,14.66,Completed
+2880,340,2023-01-26,PayPal,12.76,Completed
+2881,204,2021-12-18,PayPal,10.82,Completed
+2882,161,2023-03-27,PayPal,2.58,Completed
+2883,28,2021-10-25,Credit Card,13.24,Completed
+2884,392,2021-10-10,Cash,9.5,Completed
+2885,257,2022-08-09,Cash,12.08,Cancelled
+2886,165,2021-04-20,Cash,9.73,Completed
+2887,63,2021-06-29,Credit Card,19.39,Completed
+2888,22,2022-06-28,Cash,12.87,Completed
+2889,70,2023-01-16,Cash,15.49,Completed
+2890,381,2023-03-05,Cash,18.85,Completed
+2891,405,2021-01-25,Credit Card,12.65,Completed
+2892,96,2023-04-23,Cash,2.22,Completed
+2893,163,2023-03-02,Cash,2.62,Completed
+2894,79,2023-01-08,Credit Card,14.64,Completed
+2895,5,2021-02-26,PayPal,7.02,Completed
+2896,316,2021-06-29,Cash,12.43,Returned
+2897,120,2021-08-20,PayPal,5.64,Completed
+2898,302,2023-06-13,Cash,6.86,Completed
+2899,178,2021-12-09,Credit Card,11.08,Completed
+2900,176,2022-04-22,PayPal,19.56,Completed
+2901,390,2023-03-10,PayPal,13.09,Completed
+2902,217,2022-07-30,PayPal,18.85,Completed
+2903,56,2022-03-31,PayPal,19.27,Completed
+2904,366,2021-08-20,Cash,5.75,Completed
+2905,187,2021-10-16,Cash,7.6,Completed
+2906,232,2021-08-01,PayPal,15.86,Completed
+2907,255,2021-09-15,Cash,17.6,Completed
+2908,413,2022-06-14,PayPal,11.35,Completed
+2909,455,2022-11-18,PayPal,19.88,Completed
+2910,104,2021-08-17,Credit Card,2.21,Cancelled
+2911,77,2021-08-14,PayPal,7.39,Completed
+2912,230,2022-08-19,Cash,13.22,Completed
+2913,402,2023-03-14,PayPal,10.45,Returned
+2914,258,2022-03-11,Credit Card,4.1,Completed
+2915,264,2023-06-01,Cash,8.62,Completed
+2916,331,2023-01-28,Credit Card,2.46,Completed
+2917,481,2022-02-06,Credit Card,13.57,Completed
+2918,182,2022-09-14,PayPal,18.07,Completed
+2919,381,2023-02-05,Credit Card,17.93,Returned
+2920,256,2021-03-29,Credit Card,14.59,Completed
+2921,38,2022-08-07,Cash,10.38,Completed
+2922,176,2023-06-12,Credit Card,11.22,Completed
+2923,27,2022-06-26,PayPal,4.46,Completed
+2924,276,2022-11-15,PayPal,8.14,Completed
+2925,140,2021-11-05,PayPal,5.38,Completed
+2926,299,2021-12-09,Credit Card,16.78,Completed
+2927,445,2022-03-12,Cash,18.47,Completed
+2928,287,2021-06-26,PayPal,11.66,Completed
+2929,91,2021-05-19,Credit Card,15.1,Completed
+2930,480,2021-07-13,PayPal,4.19,Completed
+2931,61,2021-07-05,PayPal,12.95,Completed
+2932,458,2021-08-06,Cash,14.65,Cancelled
+2933,451,2021-06-13,PayPal,10.15,Completed
+2934,365,2021-06-10,Cash,6.38,Completed
+2935,347,2022-06-09,Credit Card,17.79,Completed
+2936,163,2023-03-19,PayPal,15.37,Completed
+2937,351,2022-08-24,Credit Card,18.2,Completed
+2938,143,2023-04-16,Credit Card,16.73,Completed
+2939,400,2021-02-11,Credit Card,19.83,Completed
+2940,253,2021-07-29,PayPal,5.46,Returned
+2941,269,2023-01-11,Cash,3.56,Returned
+2942,369,2023-05-12,PayPal,8.07,Completed
+2943,291,2021-10-02,Credit Card,4.32,Completed
+2944,500,2021-10-06,Cash,11.42,Cancelled
+2945,459,2021-09-08,Credit Card,13.39,Completed
+2946,187,2021-11-06,Cash,12.41,Completed
+2947,405,2022-12-21,PayPal,6.67,Completed
+2948,499,2023-04-13,Cash,18.36,Completed
+2949,438,2021-05-20,PayPal,2.38,Completed
+2950,459,2023-03-03,Credit Card,8.26,Returned
+2951,414,2022-06-30,Cash,14.94,Returned
+2952,304,2023-04-01,Credit Card,15.8,Completed
+2953,291,2022-06-14,Cash,9.49,Completed
+2954,86,2021-02-26,PayPal,2.3,Completed
+2955,166,2021-04-22,Cash,13.12,Completed
+2956,415,2021-01-05,Cash,3.14,Completed
+2957,462,2022-02-14,PayPal,3.94,Completed
+2958,408,2022-02-18,PayPal,13.7,Completed
+2959,114,2021-07-01,PayPal,7.62,Completed
+2960,433,2021-01-13,Cash,8.26,Cancelled
+2961,480,2021-12-05,Credit Card,10.76,Returned
+2962,356,2023-03-08,Cash,19.61,Completed
+2963,416,2021-09-16,Cash,19.38,Completed
+2964,183,2021-03-31,Credit Card,9.49,Completed
+2965,207,2022-09-08,PayPal,6.78,Completed
+2966,256,2023-06-10,Cash,7.45,Cancelled
+2967,235,2022-11-29,Credit Card,6.84,Completed
+2968,442,2021-09-07,PayPal,11.58,Completed
+2969,355,2021-09-12,PayPal,12.92,Completed
+2970,3,2022-08-11,Cash,10.8,Completed
+2971,208,2023-06-17,PayPal,9.34,Completed
+2972,197,2021-04-18,PayPal,5.8,Completed
+2973,341,2022-10-30,Credit Card,10.69,Completed
+2974,125,2022-08-17,Credit Card,8.14,Completed
+2975,138,2022-08-12,PayPal,11.75,Completed
+2976,339,2022-04-30,Credit Card,14.15,Completed
+2977,25,2021-09-15,PayPal,13.4,Returned
+2978,68,2022-10-01,Cash,10.32,Completed
+2979,61,2021-10-09,Credit Card,12.01,Completed
+2980,29,2021-03-29,PayPal,7.13,Completed
+2981,383,2021-07-23,PayPal,2.44,Completed
+2982,19,2021-01-16,Credit Card,13.25,Completed
+2983,171,2021-05-31,Credit Card,6.55,Completed
+2984,450,2021-09-11,Cash,14.04,Completed
+2985,74,2021-07-07,PayPal,15.45,Completed
+2986,61,2021-11-25,Cash,18.49,Completed
+2987,427,2022-06-28,Cash,19.25,Completed
+2988,153,2023-02-22,Cash,2.19,Returned
+2989,276,2022-02-01,Credit Card,19.83,Completed
+2990,48,2022-06-01,Cash,14.29,Completed
+2991,211,2022-04-04,Credit Card,13.58,Returned
+2992,343,2021-11-26,Credit Card,2.27,Completed
+2993,408,2023-03-31,Cash,17.5,Completed
+2994,139,2023-04-25,Cash,4.62,Completed
+2995,110,2021-06-18,PayPal,17.07,Returned
+2996,482,2022-11-24,Cash,2.28,Completed
+2997,183,2022-01-01,PayPal,13.63,Returned
+2998,28,2021-06-27,Cash,9.83,Completed
+2999,197,2022-10-17,Cash,5.61,Completed
+3000,191,2021-12-28,Cash,3.94,Completed
